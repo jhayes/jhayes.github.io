@@ -1,2 +1,3 @@
 name: jhayes
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
