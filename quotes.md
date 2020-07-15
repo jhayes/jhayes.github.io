@@ -20,5 +20,7 @@ permalink: /quotes/
 <div style="text-align: right">Lewis Carroll Epstein</div>  
   
 > What one fool can do, another can.  
-<div style="text-align: right">(Ancient Simian Proverb.)</div>  
+<div style="text-align: right">(Ancient Simian Proverb.)</div> 
+
+Test 
 
