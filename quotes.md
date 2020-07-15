@@ -6,7 +6,7 @@ permalink: /quotes/
 
 > To understand the man you have to know what 
 > was happening in the world when he was twenty.  
-<div style="text-align: right">Napoleon Bonaparte</div>  
+<div style="text-align: right">Napoleon Bonaparte<br /></div>  
   
 
 > If you are given a hammer with which to drive nails
