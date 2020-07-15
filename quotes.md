@@ -15,7 +15,7 @@ permalink: /quotes/
 > a marvelous invention!" You see, you can't really
 > appreciate the solution until you first appreciate the
 >problem.
-- Lewis Carroll Epstein
+<div style="text-align: right">Lewis Carroll Epstein</div>
 
 `What one fool can do, another can.`
 (Ancient Simian Proverb.)
