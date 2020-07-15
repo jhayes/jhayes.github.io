@@ -22,5 +22,4 @@ permalink: /quotes/
 > What one fool can do, another can.  
 <div style="text-align: right">(Ancient Simian Proverb.)<br><br></div> 
 
-Test 
 
