@@ -17,10 +17,10 @@ permalink: /quotes/
 > a marvelous invention!" You see, you can't really
 > appreciate the solution until you first appreciate the
 >problem.  
-<div style="text-align: right">Lewis Carroll Epstein</div>  
+<div style="text-align: right">Lewis Carroll Epstein<br><br></div>  
   
 > What one fool can do, another can.  
-<div style="text-align: right">(Ancient Simian Proverb.)</div> 
+<div style="text-align: right">(Ancient Simian Proverb.)<br><br></div> 
 
 Test 
 
