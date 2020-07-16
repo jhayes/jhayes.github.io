@@ -16,11 +16,11 @@ permalink: /quotes/
 > you are given a hammer, you think to yourself, "What
 > a marvelous invention!" You see, you can't really
 > appreciate the solution until you first appreciate the
->problem.  
-<div style="text-align: right">Lewis Carroll Epstein<br><br></div>  
+>problem.
+<div style="text-align: right"><a href="https://www.google.com/search?q=thinking+physics">Lewis Carroll Epstein</a><br><br></div>   
   
-> What one fool can do, another can.  
-<div style="text-align: right">(Ancient Simian Proverb.)<br><br></div> 
+> What one fool can do, another can.
+<div style="text-align: right"><a href="http://www.gutenberg.org/ebooks/33283">(Ancient Simian Proverb.)</a><br><br></div>  
 
 > I had a very, very illuminating discussion with the guy in charge of repairs when my kitchen sprung a leak.
 > Kitchen layout is constrained a lot by physics, and again by ergonomics, and the customer's theories on how the kitchen should be don't always allow for these. He confessed that the reason they bombard you with a million tile and color and flooring and countertop options is to induce decision fatigue.
