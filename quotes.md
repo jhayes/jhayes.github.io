@@ -5,6 +5,7 @@ permalink: /quotes/
 ---
 
 Snippets of stuff that I thought were interesting. Some are classic, others are 'new-age'.
+<br><br>
 
 > To understand the man you have to know what 
 > was happening in the world when he was twenty.  
