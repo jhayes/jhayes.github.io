@@ -4,6 +4,8 @@ title: Quotes
 permalink: /quotes/
 ---
 
+Snippets of stuff that I thought were interesting. Some are classic, others are 'new-age'.
+
 > To understand the man you have to know what 
 > was happening in the world when he was twenty.  
 <div style="text-align: right">Napoleon Bonaparte<br><br></div>  
