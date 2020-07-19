@@ -43,6 +43,7 @@ merit by burying them with due ceremony. Unfortunately the number of
 worshippers greatly exceeded the number of birds dying of natural causes
 so the temples bred Ibises in order that they might be killed and and then
 properly buried.
+>
 >So far as many mathematics students are concerned university mathematics lectures follow the same pattern. For these students attendance at
 lectures has a magical rather than a real significance. They attend lectures
 regularly (religiously, as one might say) taking care to sit as far from the
@@ -50,6 +51,7 @@ lecturer as possible (it is not good to attract the attention of little understo
 Tibetan prayer wheel — an overhead projector) that the congregation is fully
 occupied but most fail in this task. The gaps left empty are filled by the more
 antisocial elements with surreptitious (or not so surreptitious) conversation, reading of newspapers and so on whilst the remainder doodle or daydream.
+>
 > The notes of the lecture are then kept untouched until the holidays or, more
 usually, the week before the exams when they are carefully highlighted with
 day-glow yellow pens (a process known as revision). When more than 50% of
