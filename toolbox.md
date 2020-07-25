@@ -14,7 +14,7 @@ du -sh
 {% endhighlight %}
 
 ###### Comparing the differences between two directories of files that are almost the same.
-{% highlight ruby %}
+{% highlight shell %}
 diff -bur folder1/ folder2/
 {% endhighlight %}
 
