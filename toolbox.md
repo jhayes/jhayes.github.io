@@ -8,7 +8,7 @@ Collection of things I find useful.
 <br><br>
 
 # Unix commands
-#### How To Find The Size Of A Directory In Linux
+#### How to find the size of a directory in Linux
 {% highlight shell %}
 du -sh
 {% endhighlight %}
