@@ -8,12 +8,12 @@ Collection of things I find useful.
 <br><br>
 
 # Unix commands
-###### How To Find The Size Of A Directory In Linux
+#### How To Find The Size Of A Directory In Linux
 {% highlight ruby %}
 du -sh
 {% endhighlight %}
 
-###### Comparing the differences between two directories of files that are almost the same.
+#### Comparing the differences between two directories of files that are almost the same.
 {% highlight shell %}
 diff -bur folder1/ folder2/
 {% endhighlight %}
