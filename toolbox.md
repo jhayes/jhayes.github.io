@@ -8,17 +8,17 @@ Collection of things I find useful.
 <br><br>
 
 # Unix commands
-#### How to find the size of a directory in Linux
+#### [How to find the size of a directory in Linux](https://www.ostechnix.com/find-size-directory-linux/)
 {% highlight shell %}
 du -sh
 {% endhighlight %}
 
-#### Comparing the differences between two directories of files that are almost the same.
+#### [Comparing the differences between two directories of files that are almost the same.](https://stackoverflow.com/questions/2019857/diff-files-present-in-two-different-directories)
 {% highlight shell %}
 diff -bur folder1/ folder2/
 {% endhighlight %}
 
-#### Finding a particular file in a folder in linux. This will look in the current folder (and sub-directories) for that string in a name of a file.
+#### [Finding a particular file in a folder in linux. This will look in the current folder (and sub-directories) for that string in a name of a file.](https://www.linode.com/docs/tools-reference/tools/find-files-in-linux-using-the-command-line/)
 {% highlight shell %}
 find . -name '*default_setup.use'
 {% endhighlight %}
