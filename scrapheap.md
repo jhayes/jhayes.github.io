@@ -47,7 +47,14 @@ watch bhappy
 
 # Emacs #
 
-Handy way to append a flag to the end of a line.
+## [Deleting the first 'x' characters from every line in a region with Emacs - Stack Overflow](https://stackoverflow.com/questions/15929872/deleting-the-first-x-characters-from-every-line-in-a-region-with-emacs) ##
+You use your mark tool ('C-Spc') to highlight a box area and then use the command 'C-x r k' to remove this square/rectangle.
+
+Don't worry about the mark tool highlighting the edges of lines in between, they won't be clipped.
+
+
+
+## Handy way to append a flag to the end of a line. ##
 
 Command: M-< M-x replace-regexp RET $ RET a RET
 
