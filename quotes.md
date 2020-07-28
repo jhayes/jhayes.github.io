@@ -61,3 +61,21 @@ to be consulted again. (Sometimes the notes are ceremonially burnt at the
 end of the student’s university career thereby giving a vivid demonstration
 of the value placed on the academic side of fifteen years of education.)
 <div style="text-align: right"><a href="https://www.dpmms.cam.ac.uk/~twk/Lecture.pdf">T. W. Körner</a><br><br></div>
+
+
+>When enterprises are small they necessarily rely on people who have shown special skills and the ability to make good calls, or good guesses.  When the enterprise is small it may organize itself around these special people so as to make best use of them.
+>
+>It seems to me that as companies grow large (and old?) they become concerned about the vulnerability which high reliance on special or "irreplaceable"  people involves.  They try to organize to avoid the possibility of bad judgment or reliance on unique skills or knowledge.  In so doing they reformulate the organization to run on a sort of formulaic one-size-for-all autopilot that allows any position to be replaced by someone with no special skills at all.
+>
+>In structuring the workplace so it can operate with people who are no better than mediocre they insure that the place is filled with mediocre people who require many rules to avoid the necessity for good judgment.  I have the belief that the primary purpose of rules is to tell you what to do when you don't know the right thing to do.  If you need too many rules to operate, that must mean you must mostly not know what to do.
+>
+>Should we fear bad judgment?  Of course, but eliminating the possibility for any judgment good or bad is not the solution.
+>
+>And it gets worse, because the rules come to be made by people who don't have the good judgment, perspective , and care for the fact that every rule preventing something bad from happening is also likely to prevent some good things, too.  When the side effects are worse than the disease the remedy is made to cure, more people spend more time dodging bullets than in real work.
+>
+>Relying on good people to have good judgment is risky.  Not doing it is worse.
+>
+>Rant paused,
+>Paul
+<div style="text-align: right">The philosophy of Mediocraties<br><br></div>
+
