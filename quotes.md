@@ -79,3 +79,13 @@ of the value placed on the academic side of fifteen years of education.)
 >Paul
 <div style="text-align: right">The philosophy of Mediocraties<br><br></div>
 
+>Judge talent at its best but character at its worst.
+<div style="text-align: right"><a href="https://oll.libertyfund.org/titles/209#Acton_0028_76">Lord Acton</a><br><br></div>
+
+
+> In desperation I asked Fermi whether he was not impressed by the agreement between our calculated numbers and his measured numbers. He replied, "How many arbitrary parameters did you use for your calculations?" I thought for a moment about our cut-off procedures and said, "Four." He said, "I remember my friend Johnny von Neumann used to say, with four parameters I can fit an elephant, and with five I can make him wiggle his trunk."
+
+<div style="text-align: right"><a href="http://lilith.fisica.ufmg.br/~dsoares/fdyson.htm">Freeman Dyson</a><br><br></div>
+
+
+
