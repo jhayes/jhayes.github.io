@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Hi, welcome to my website. I scrawl here.
+Hi there, welcome to my website. I scrawl here.
 
