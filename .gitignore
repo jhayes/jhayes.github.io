@@ -3,3 +3,8 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+*.md~
+*.html~
+content/.DS_Store
+*.yaml~
+.DS_Store
