@@ -2,18 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jack Hayes</title>
-    <link>http://www.jhayes.ie/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Jack Hayes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="http://www.jhayes.ie/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://www.jhayes.ie/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://www.jhayes.ie/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+    </item>
+    <item>
+      <title>Film_thefounder</title>
+      <link>http://localhost:1313/film_thefounder/</link>
+      <pubDate>Mon, 17 Apr 2023 23:45:10 +0100</pubDate>
+      <guid>http://localhost:1313/film_thefounder/</guid>
+      <description>I watched this tonight. It was quite interesting.&#xA;The character Ray Kroc was quite a strong one. He is ultimately unlikeable and reminds me of Steve Jobs.&#xA;There are stories and traits that you might admire. But then I&amp;rsquo;m skeptical of bluster in the service of his persistence. That strikes me as a story from after the fact.&#xA;The phrase &amp;lsquo;Fortune favours the bold&amp;rsquo; is used in the film. I&amp;rsquo;ve heard it before but the film made me dwell on it more.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 15 Apr 2023 13:48:12 +0100</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Please display me</description>
     </item>
   </channel>
 </rss>

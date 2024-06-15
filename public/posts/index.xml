@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jack Hayes</title>
-    <link>http://www.jhayes.ie/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Jack Hayes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="http://www.jhayes.ie/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://www.jhayes.ie/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://www.jhayes.ie/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
     </item>
   </channel>
