@@ -2,10 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jhayes.github.io/categories/</loc>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>https://jhayes.github.io/</loc>
+    <loc>//localhost:1313/posts/my-first-post/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>https://jhayes.github.io/tags/</loc>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/film_thefounder/</loc>
+    <lastmod>2023-04-17T23:45:10+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
+    <lastmod>2023-04-15T13:48:12+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
