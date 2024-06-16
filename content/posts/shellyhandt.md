@@ -12,7 +12,7 @@ The reason for choosing them at the time was because:
 - WiFi as a protocol seemed cleaner at the time, less to go wrong.
 -- (In the meantime, I don't know if this is so true anymore).
 
-# Setup
+## Setup
 Just some notes for myself next time I have to set these up..
 1. Pressing the button on the back for 5 seconds puts it into a setup mode where the device is a WiFI Access Point.
 This means that you can connect to it directly via WiFi (as in, it will show up in your list of WiFi networks to connect to).
