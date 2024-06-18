@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Jack Hayes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jun 2024 07:07:07 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 20:25:17 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using hugo-ox</title>
+      <link>http://localhost:1313/posts/test-post/</link>
+      <pubDate>Tue, 18 Jun 2024 20:25:17 +0100</pubDate>
+      <guid>http://localhost:1313/posts/test-post/</guid>
+      <description>Still learning how to use this. I use emacs a fair bit and org-mode a bit so I&amp;rsquo;m interested in using an org-mode flow. It&amp;rsquo;s unclear yet if it&amp;rsquo;s worth the effort for me but I&amp;rsquo;ll give it a go anyways.&#xA;I&amp;rsquo;m currently working my way through a post by a guy called Andreyor.&#xA;A list of stuff in this area:&#xA;https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/ https://diego.codes/post/blogging-with-org/ </description>
+    </item>
     <item>
       <title>Setting up Shelly H&amp;T Plus with Home Assistant</title>
       <link>http://localhost:1313/posts/shellyhandt/</link>
@@ -21,13 +28,6 @@
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/posts/test-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test-post/</guid>
-      <description>Hello there! General Kenobi</description>
     </item>
   </channel>
 </rss>

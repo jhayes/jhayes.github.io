@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home-Assistant on Jack Hayes</title>
+    <link>http://localhost:1313/tags/home-assistant/</link>
+    <description>Recent content in Home-Assistant on Jack Hayes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jun 2024 20:28:19 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/home-assistant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting up Shelly H&amp;T Plus with Home Assistant</title>
+      <link>http://localhost:1313/posts/shelly-handt/</link>
+      <pubDate>Tue, 18 Jun 2024 20:28:19 +0100</pubDate>
+      <guid>http://localhost:1313/posts/shelly-handt/</guid>
+      <description>Introduction I bought two Shelly H&amp;amp;T plus devices a couple of months ago. The reason for choosing them at the time was because:&#xA;They had a legible screen. The company seemed to have a reasonable reputation. There was an option to use the devices without their own apps (as in, local use only). WiFi as a protocol seemed cleaner at the time, less to go wrong. &amp;ndash; (In the meantime, I don&amp;rsquo;t know if this is so true anymore).</description>
+    </item>
+  </channel>
+</rss>
