@@ -3,7 +3,15 @@
 #+hugo_auto_set_lastmod: t
 
 #+title: Using hugo-ox
-#+hugo_tags: some tags
+#+hugo_tags: hugo emacs
 
 Still learning how to use this.
-I'm currently working my way through the following post: https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/
+
+I use emacs a fair bit and org-mode a bit so I'm interested in using an org-mode flow.
+It's unclear yet if it's worth the effort for me but I'll give it a go anyways.
+
+I'm currently working my way through a post by a guy called Andreyor.
+
+A list of stuff in this area:
+- https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/
+- https://diego.codes/post/blogging-with-org/
