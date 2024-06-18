@@ -30,13 +30,6 @@
       <description>Introduction I bought two Shelly H&amp;amp;T Plus (version 3) devices a couple of months ago. The reason for choosing them at the time was because:&#xA;They had a legible screen. The company seemed to have a reasonable reputation. There was an option to use the devices without their own apps (as in, local use only). WiFi as a protocol seemed cleaner at the time, less to go wrong. (In the meantime, I don&amp;rsquo;t know if this is so true anymore).</description>
     </item>
     <item>
-      <title>Using hugo-ox</title>
-      <link>http://localhost:1313/posts/test-post/</link>
-      <pubDate>Tue, 18 Jun 2024 20:26:24 +0100</pubDate>
-      <guid>http://localhost:1313/posts/test-post/</guid>
-      <description>Still learning how to use this.&#xA;I use emacs a fair bit and org-mode a bit so I&amp;rsquo;m interested in using an org-mode flow. It&amp;rsquo;s unclear yet if it&amp;rsquo;s worth the effort for me but I&amp;rsquo;ll give it a go anyways.&#xA;I&amp;rsquo;m currently working my way through a post by a guy called Andreyor.&#xA;A list of stuff in this area:&#xA;https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/ https://diego.codes/post/blogging-with-org/ </description>
-    </item>
-    <item>
       <title>Setting up Shelly H&amp;T Plus with Home Assistant</title>
       <link>http://localhost:1313/posts/shellyhandt/</link>
       <pubDate>Sun, 16 Jun 2024 07:07:07 +0100</pubDate>
