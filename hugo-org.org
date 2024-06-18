@@ -5,6 +5,7 @@
 #+title: Using Org-Mode with Hugo
 #+hugo_tags: hugo emacs
 
+* Starting Points
 Still learning how to use this.
 
 I use emacs a fair bit and org-mode a bit so I'm interested in using an org-mode flow.
@@ -15,3 +16,9 @@ I'm currently working my way through a post by a guy called Andreyor.
 A list of stuff in this area:
 - https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/
 - https://diego.codes/post/blogging-with-org/
+
+* Adding Images
+This was the first stumbling block for me.
+- [[https://ox-hugo.scripter.co/doc/image-links/][Ox-Hugo Image Links]]
+  - Reading over this, put the images you're interested in, in the /static/ directory.
+  - Then you can reference them using the file: prefix and various square brackets.
