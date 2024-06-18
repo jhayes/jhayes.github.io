@@ -22,5 +22,12 @@
       <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/test-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/test-post/</guid>
+      <description>Hello there! General Kenobi</description>
+    </item>
   </channel>
 </rss>
