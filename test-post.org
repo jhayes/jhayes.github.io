@@ -1,0 +1,9 @@
+#+hugo_base_dir: ./
+#+hugo_section: posts
+#+hugo_auto_set_lastmod: t
+
+#+title: Using hugo-ox
+#+hugo_tags: some tags
+
+Still learning how to use this.
+I'm currently working my way through the following post: https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/
