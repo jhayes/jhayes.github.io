@@ -1,9 +1,10 @@
-#+hugo_base_dir: ./
-#+hugo_section: posts
-#+hugo_auto_set_lastmod: t
-
-#+title: Using hugo-ox
-#+hugo_tags: hugo emacs
++++
+title = "Using Org-Mode with Hugo"
+author = ["Jack"]
+lastmod = 2024-06-18T21:16:19+01:00
+tags = ["hugo", "emacs"]
+draft = false
++++
 
 Still learning how to use this.
 
@@ -13,5 +14,6 @@ It's unclear yet if it's worth the effort for me but I'll give it a go anyways.
 I'm currently working my way through a post by a guy called Andreyor.
 
 A list of stuff in this area:
-- https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/
-- https://diego.codes/post/blogging-with-org/
+
+-   <https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/>
+-   <https://diego.codes/post/blogging-with-org/>
