@@ -30,27 +30,6 @@
       <description>Introduction I bought two Shelly H&amp;amp;T Plus (version 3) devices a couple of months ago. The reason for choosing them at the time was because:&#xA;They had a legible screen. The company seemed to have a reasonable reputation. There was an option to use the devices without their own apps (as in, local use only). WiFi as a protocol seemed cleaner at the time, less to go wrong. (In the meantime, I don&amp;rsquo;t know if this is so true anymore).</description>
     </item>
     <item>
-      <title>Setting up Shelly H&amp;T Plus with Home Assistant</title>
-      <link>http://localhost:1313/posts/shellyhandt/</link>
-      <pubDate>Sun, 16 Jun 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/shellyhandt/</guid>
-      <description>Introduction I bought two Shelly H&amp;amp;T plus devices a couple of months ago. The reason for choosing them at the time was because:&#xA;They had a legible screen. The company seemed to have a reasonable reputation. There was an option to use the devices without their own apps (as in, local use only). WiFi as a protocol seemed cleaner at the time, less to go wrong. &amp;ndash; (In the meantime, I don&amp;rsquo;t know if this is so true anymore).</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
-    </item>
-    <item>
-      <title>Film_thefounder</title>
-      <link>http://localhost:1313/film_thefounder/</link>
-      <pubDate>Mon, 17 Apr 2023 23:45:10 +0100</pubDate>
-      <guid>http://localhost:1313/film_thefounder/</guid>
-      <description>I watched this tonight. It was quite interesting.&#xA;The character Ray Kroc was quite a strong one. He is ultimately unlikeable and reminds me of Steve Jobs.&#xA;There are stories and traits that you might admire. But then I&amp;rsquo;m skeptical of bluster in the service of his persistence. That strikes me as a story from after the fact.&#xA;The phrase &amp;lsquo;Fortune favours the bold&amp;rsquo; is used in the film. I&amp;rsquo;ve heard it before but the film made me dwell on it more.</description>
-    </item>
-    <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Sat, 15 Apr 2023 13:48:12 +0100</pubDate>
