@@ -16,9 +16,20 @@ I'm currently working my way through a post by a guy called Andreyor.
 A list of stuff in this area:
 - https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/
 - https://diego.codes/post/blogging-with-org/
-
+* Adding a new post
+1. Go to the home directory and add a new file 'post_XX.org'.
+2. Add a preamble of #commands that can be copied from an old post.
+3. Write your post.
+4. Use of the command C-c, C-e, H, H.
+   - This invokes ox-hugo that will generate the markdown file.
+5. Go to a terminal and invoke 'hugo server -D' from the home directory.
+6. Marvel at the results located at 'https://localhost:1313'.
+  
 * Adding Images
 This was the first stumbling block for me.
 - [[https://ox-hugo.scripter.co/doc/image-links/][Ox-Hugo Image Links]]
   - Reading over this, put the images you're interested in, in the /static/ directory.
   - Then you can reference them using the file: prefix and various square brackets.
+* Adding Tables
+Firstly we can add a table by use of comma seperated values.
+- https://orgmode.org/worg/org-tutorials/tables.html

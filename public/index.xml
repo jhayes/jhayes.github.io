@@ -6,14 +6,21 @@
     <description>Recent content on Jack Hayes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jun 2024 21:30:38 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 23:41:15 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vents</title>
+      <link>http://localhost:1313/posts/vents/</link>
+      <pubDate>Thu, 27 Jun 2024 23:41:15 +0100</pubDate>
+      <guid>http://localhost:1313/posts/vents/</guid>
+      <description>Introduction There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.&#xA;They all look similar but are actually different variants, all designed by Aereco. There is a comparison table located here: https://www.aereco.ie/products/exhaust-units-ie/bxc-2/#characteristics&#xA;Just in case it disappears later, the gist is:&#xA;The bathroom ones have a boost feature when a person is present. The kitchen and bathroom check for humidity (I guess the downstairs toilet won&amp;rsquo;t have much water vapour anyways).</description>
+    </item>
     <item>
       <title>Using Org-Mode with Hugo</title>
       <link>http://localhost:1313/posts/hugo-org/</link>
-      <pubDate>Tue, 18 Jun 2024 21:30:38 +0100</pubDate>
+      <pubDate>Thu, 27 Jun 2024 21:15:00 +0100</pubDate>
       <guid>http://localhost:1313/posts/hugo-org/</guid>
-      <description>Starting Points Still learning how to use this.&#xA;I use emacs a fair bit and org-mode a bit so I&amp;rsquo;m interested in using an org-mode flow. It&amp;rsquo;s unclear yet if it&amp;rsquo;s worth the effort for me but I&amp;rsquo;ll give it a go anyways.&#xA;I&amp;rsquo;m currently working my way through a post by a guy called Andreyor.&#xA;A list of stuff in this area:&#xA;https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/ https://diego.codes/post/blogging-with-org/ Adding Images This was the first stumbling block for me.</description>
+      <description>Starting Points Still learning how to use this.&#xA;I use emacs a fair bit and org-mode a bit so I&amp;rsquo;m interested in using an org-mode flow. It&amp;rsquo;s unclear yet if it&amp;rsquo;s worth the effort for me but I&amp;rsquo;ll give it a go anyways.&#xA;I&amp;rsquo;m currently working my way through a post by a guy called Andreyor.&#xA;A list of stuff in this area:&#xA;https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/ https://diego.codes/post/blogging-with-org/ Adding a new post Go to the home directory and add a new file &amp;lsquo;post_XX.</description>
     </item>
     <item>
       <title>What I know about Ecodan ASHPs</title>

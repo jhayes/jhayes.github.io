@@ -1,7 +1,7 @@
 +++
 title = "Using Org-Mode with Hugo"
 author = ["Jack"]
-lastmod = 2024-06-18T21:30:38+01:00
+lastmod = 2024-06-27T21:15:00+01:00
 tags = ["hugo", "emacs"]
 draft = false
 +++
@@ -19,6 +19,17 @@ A list of stuff in this area:
 
 -   <https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/>
 -   <https://diego.codes/post/blogging-with-org/>
+
+
+## Adding a new post {#adding-a-new-post}
+
+1.  Go to the home directory and add a new file 'post_XX.org'.
+2.  Add a preamble of #commands that can be copied from an old post.
+3.  Write your post.
+4.  Use of the command C-c, C-e, H, H.
+    -   This invokes ox-hugo that will generate the markdown file.
+5.  Go to a terminal and invoke 'hugo server -D' from the home directory.
+6.  Marvel at the results at 'https://localhost:1313'.
 
 
 ## Adding Images {#adding-images}

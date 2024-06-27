@@ -11,3 +11,5 @@ The following is a meandering post on what I've learnt about heat pumps (and mor
 
 [[file:/heatpump_map_1.jpeg][file:/heatpump_map_1.jpeg]]
 
+* Adding a smart sensor
+It's possible to add a smart sensor.

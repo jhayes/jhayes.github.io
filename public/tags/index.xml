@@ -6,8 +6,15 @@
     <description>Recent content in Tags on Jack Hayes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jun 2024 21:30:38 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 23:41:15 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>House</title>
+      <link>http://localhost:1313/tags/house/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/house/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Emacs</title>
       <link>http://localhost:1313/tags/emacs/</link>
