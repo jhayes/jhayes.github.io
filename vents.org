@@ -1,7 +1,7 @@
 #+hugo_base_dir: ./
 #+hugo_section: posts
 #+hugo_auto_set_lastmod: t
-#+hugo_draft: true
+#+hugo_draft: false
 
 #+title: Vents
 #+hugo_tags: house
