@@ -1,10 +1,15 @@
 +++
-title = "Vents"
+title = "Venting"
 author = ["Jack"]
-lastmod = 2024-06-27T23:44:36+01:00
+lastmod = 2024-06-28T09:50:58+01:00
 tags = ["house"]
 draft = false
 +++
+
+## Summary {#summary}
+
+Clickbait title, couldn't resist the obvious one! This page is just a collection of details on the vents in my house for future Jack.
+
 
 ## Introduction {#introduction}
 
@@ -33,3 +38,8 @@ Just in case it disappears later, the gist is:
 -   I think the vents all make their way up to the attic, where there's a much larger exhuast, but I'm not completely sure on that yet.
     -   At the same time, we also have a vent over the hob but that's venting a different way I think.
 -   I think these vents might also have features for Co2 but I'm not sure yet.
+
+
+## Links {#links}
+
+-   This is a troubleshooting guide for the [BXC^2 hps model](/bxchps-beeping-troubleshooting-noise.pdf).

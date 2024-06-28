@@ -2,7 +2,7 @@
 title = "Using Org-Mode with Hugo"
 author = ["Jack"]
 date = 2024-06-27T00:00:00+01:00
-lastmod = 2024-06-28T09:27:26+01:00
+lastmod = 2024-06-28T09:46:57+01:00
 tags = ["hugo", "emacs"]
 draft = false
 +++

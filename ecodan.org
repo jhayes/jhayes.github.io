@@ -1,15 +1,19 @@
 #+hugo_base_dir: ./
 #+hugo_section: posts
 #+hugo_auto_set_lastmod: t
-
+#+date: [2024-06-18 Tue]
+#+lastmod: [2024-06-28 Fri]
 #+title: What I know about Ecodan ASHPs
-#+hugo_tags: learning
+#+hugo_tags: house
 
-* Introduction
+* Summary
 The following is a meandering post on what I've learnt about heat pumps (and more specifically the Ecodan range from Mistubishi).
 
+* Map of the Plumbing
 
 [[file:/heatpump_map_1.jpeg][file:/heatpump_map_1.jpeg]]
 
 * Adding a smart sensor
 It's possible to add a smart sensor.
+
+* Diagnostics

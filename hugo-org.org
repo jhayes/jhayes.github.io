@@ -3,7 +3,6 @@
 #+hugo_auto_set_lastmod: t
 #+date: [2024-06-27 Thu]
 #+lastmod: [2024-06-28 Fri]
-  
 #+title: Using Org-Mode with Hugo
 #+hugo_tags: hugo emacs
 
