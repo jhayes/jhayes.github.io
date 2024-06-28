@@ -255,13 +255,52 @@ The reason for choosing them at the time was because:</p>
             <pubDate>Tue, 18 Jun 2024 00:00:00 +0100</pubDate>
             
             <guid>http://localhost:1313/posts/ecodan/</guid>
-            <description>Summary The following is a meandering post on what I&amp;rsquo;ve learnt about heat pumps (and more specifically the Ecodan range from Mistubishi).
-Map of the Plumbing Adding a smart sensor It&amp;rsquo;s possible to add a smart sensor to this heating system. The model number I used was 587IF-E.
-When I was trying to source this, there was confusion online about the fact that there are multiple variants. It seems like there&amp;rsquo;s a different part number for Austrialian models (or something).</description>
+            <description>Summary The following is a meandering post on what I&amp;rsquo;ve learnt about heat pumps (and more specifically the Ecodan range from Mistubishi) and some handy resources I&amp;rsquo;ve found.
+The System The gist of the sytem is shown in the following infographic.
+The Outdoor Unit I&amp;rsquo;m using an 5kW Mitsubishi Ecodan Air to Water Heat Pump. It uses R32 as its refrigerant.
+There are two sides to every heat pump, the source and the sink.</description>
             <content type="html"><![CDATA[<h2 id="summary">Summary</h2>
-<p>The following is a meandering post on what I&rsquo;ve learnt about heat pumps (and more specifically the Ecodan range from Mistubishi).</p>
-<h2 id="map-of-the-plumbing">Map of the Plumbing</h2>
-<figure><a href="/heatpump_map_1.jpeg"><img src="/heatpump_map_1.jpeg"></a>
+<p>The following is a meandering post on what I&rsquo;ve learnt about heat pumps (and more specifically the Ecodan range from Mistubishi) and some handy resources I&rsquo;ve found.</p>
+<h2 id="the-system">The System</h2>
+<p>The gist of the sytem is shown in the following infographic.</p>
+<figure><a href="/heatpumps/infographic.jpeg"><img src="/heatpumps/infographic.jpeg"></a>
+</figure>
+
+<h3 id="the-outdoor-unit">The Outdoor Unit</h3>
+<p>I&rsquo;m using an 5kW Mitsubishi Ecodan Air to Water Heat Pump. It uses <a href="https://en.wikipedia.org/wiki/Difluoromethane">R32</a> as its refrigerant.</p>
+<p>There are two sides to every heat pump, the source and the sink. One can think of the source (air passing through the fan outdoors) as the input and the sink as the output (our radiators, etc).
+In this case, our source is Air and our sink is Water.</p>
+<ul>
+<li><a href="/heatpumps/Ecodan_PUZ-WM50VHA_Monobloc_Air_Source_Heat_Pump_Product_Information_Sheet.pdf">Ecodan PUZ-WM50VHA Information Sheet</a></li>
+<li><a href="/heatpumps/EcodanPUZ-WM_50-60-85-112_V_H-A_A_Installation_Manual__BH79D849H02UK_.pdf">Ecodan PUZ-WM Installation Guide</a></li>
+</ul>
+<h3 id="the-indoor-unit--cylinder-unit">The Indoor Unit (Cylinder Unit)</h3>
+<p>Judging by the label on the unit, this an EHPT17X-VM2DR1.UK model. The 17 in the title means that it has a 170 litre DHW (Domestic Hot Water) tank.</p>
+<ul>
+<li><a href="/heatpumps/Ecodan_EHPT20X-MHEDWR1_Service_Manual__OCH714E_.pdf">Ecodan EHPT17X-VM2DR1.UK Service Manual</a></li>
+</ul>
+<h3 id="map-of-the-plumbing">Map of the Plumbing</h3>
+<p>The following image is a map of the pipework above the cylinder unit, with labels.
+Some of this is based off the labels attached to the pipes and other parts are guesswork.</p>
+<ul>
+<li>There are two feeds of water coming in.
+<ul>
+<li>One of these is labelled cold; I think this comes from the tank in the attic.
+<ul>
+<li>(It could be coming from mains but I don&rsquo;t think it is because it&rsquo;s coming down from the ceiling so seems like an unlikely path).</li>
+</ul>
+</li>
+<li>The other one is labelled hot. I think this is a return path from the hot water that orginates from the cylinder unit.</li>
+</ul>
+</li>
+<li>These mix together and go into the heat pump.
+<ul>
+<li>There is also a header tank here and an overflow.</li>
+</ul>
+</li>
+<li>These then come back out and go out again towards all three of the hot water taps and the shower.</li>
+</ul>
+<figure><a href="/heatpumps/heatpump_map_1.jpeg"><img src="/heatpump_map_1.jpeg"></a>
 </figure>
 
 <h2 id="adding-a-smart-sensor">Adding a smart sensor</h2>
@@ -274,7 +313,7 @@ It seems like there&rsquo;s a different part number for Austrialian models (or s
 <li><a href="https://www.youtube.com/watch?v=XZj4t4kwYVQ">https://www.youtube.com/watch?v=XZj4t4kwYVQ</a></li>
 <li><a href="https://www.youtube.com/watch?v=i1wABPBAWK8">https://www.youtube.com/watch?v=i1wABPBAWK8</a></li>
 </ul>
-<figure><a href="/heatpump_sensor_1.png"><img src="/heatpump_sensor_1.png"></a>
+<figure><a href="/heatpumps/heatpump_sensor_1.png"><img src="/heatpump_sensor_1.png"></a>
 </figure>
 
 <h2 id="diagnostics">Diagnostics</h2>
@@ -283,8 +322,20 @@ It seems like there&rsquo;s a different part number for Austrialian models (or s
 <li>Previously I had a slight weep in the system. There&rsquo;s a gauge that indicates the pressure of the system.</li>
 <li>From talking to the plumber and heat pump service guy, keeping it in the range of 1 to 2 bar is what you&rsquo;re looking for, they advise.</li>
 </ul>
-<p><a href="/heatpump_gauge_28jun24_1.jpeg"><img src="/heatpump_gauge_28jun24_1.jpeg"></a>
-<a href="/heatpump_gauge_28jun24_2.jpeg"><img src="/heatpump_gauge_28jun24_2.jpeg"></a></p>
+<figure><a href="/heatpumps/heatpump_gauge_28jun24_1.jpeg"><img src="/heatpump_gauge_28jun24_1.jpeg"></a>
+</figure>
+
+<figure><a href="/heatpumps/heatpump_gauge_28jun24_2.jpeg"><img src="/heatpump_gauge_28jun24_2.jpeg"></a>
+</figure>
+
+<h2 id="links">Links</h2>
+<ul>
+<li>The book <a href="https://www.amazon.co.uk/Heat-Pumps-Home-John-Cantor/dp/1785007793/ref=sr_1_3?crid=14CXTV81MAL5A&dib=eyJ2IjoiMSJ9.v79c5G2CcnKI1ma3zMB0zVfWk5pPPkDXTLfbsC-64gLOs0P7-k5QmsNHMl6MvnMme-zdApiBmqPOIBYYy1njTr-ooDyW2xDh2LObpWiuChLoh3gfUWpgvm9RRgTBqqgLw94QgnSSTsMZa9DYmIlriGowM4sAgE5DqFHesfkOyMCkcw0z1vzvn7H0Omk-lEDT7lJ9Zan8qhScqMGUCUnn3gLC_L5l8WvdtLHKgKVvkpA.BLOOjOyIAwjk3ynCdH0Zj3D8ZMmsLSbQhqrCL1Z7tYQ&dib_tag=se&keywords=heat+pumps+for+the+home&qid=1719574691&sprefix=heat+pumps+for+the+%2Caps%2C72&sr=8-3">Heat Pumps for the Home</a> was pretty good.
+<ul>
+<li>It actually includes a lot of systems that use Ecodans.</li>
+</ul>
+</li>
+</ul>
 ]]></content>
         </item>
         
