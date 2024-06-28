@@ -1,40 +1,216 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Jack Hayes</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Jack Hayes</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jun 2024 08:30:09 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Using Org-Mode with Hugo</title>
-      <link>http://localhost:1313/posts/hugo-org/</link>
-      <pubDate>Fri, 28 Jun 2024 08:30:09 +0100</pubDate>
-      <guid>http://localhost:1313/posts/hugo-org/</guid>
-      <description>Summary This page is a summary of stuff I&amp;rsquo;ve learnt about using org-mode with Hugo to publish webpages. It is still very much in flux as of &amp;lt;2024-06-28 Fri&amp;gt;.&#xA;Starting Points I use emacs a fair bit and org-mode a bit so I&amp;rsquo;m interested in using an org-mode flow. Because I use hugo to generate my website at the moment, use of a package called ox-hugo seemed the most convenient.</description>
-    </item>
-    <item>
-      <title>Vents</title>
-      <link>http://localhost:1313/posts/vents/</link>
-      <pubDate>Thu, 27 Jun 2024 23:44:36 +0100</pubDate>
-      <guid>http://localhost:1313/posts/vents/</guid>
-      <description>Introduction There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.&#xA;They all look similar but are actually different variants, all designed by Aereco. There is a comparison table located here: https://www.aereco.ie/products/exhaust-units-ie/bxc-2/#characteristics&#xA;Just in case it disappears later, the gist is:&#xA;The bathroom ones have a boost feature when a person is present. The kitchen and bathroom check for humidity (I guess the downstairs toilet won&amp;rsquo;t have much water vapour anyways).</description>
-    </item>
-    <item>
-      <title>What I know about Ecodan ASHPs</title>
-      <link>http://localhost:1313/posts/ecodan/</link>
-      <pubDate>Tue, 18 Jun 2024 21:14:58 +0100</pubDate>
-      <guid>http://localhost:1313/posts/ecodan/</guid>
-      <description>Introduction The following is a meandering post on what I&amp;rsquo;ve learnt about heat pumps (and more specifically the Ecodan range from Mistubishi).</description>
-    </item>
-    <item>
-      <title>Setting up Shelly H&amp;T Plus with Home Assistant</title>
-      <link>http://localhost:1313/posts/shelly-handt/</link>
-      <pubDate>Tue, 18 Jun 2024 20:54:50 +0100</pubDate>
-      <guid>http://localhost:1313/posts/shelly-handt/</guid>
-      <description>Introduction I bought two Shelly H&amp;amp;T Plus (version 3) devices a couple of months ago. The reason for choosing them at the time was because:&#xA;They had a legible screen. The company seemed to have a reasonable reputation. There was an option to use the devices without their own apps (as in, local use only). WiFi as a protocol seemed cleaner at the time, less to go wrong. (In the meantime, I don&amp;rsquo;t know if this is so true anymore).</description>
-    </item>
-  </channel>
+    <channel>
+        <title>Posts on Jack&#39;s Blog</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in Posts on Jack&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Thu, 27 Jun 2024 23:44:36 +0100</lastBuildDate>
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Vents</title>
+            <link>http://localhost:1313/posts/vents/</link>
+            <pubDate>Thu, 27 Jun 2024 23:44:36 +0100</pubDate>
+            
+            <guid>http://localhost:1313/posts/vents/</guid>
+            <description>Introduction There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.
+They all look similar but are actually different variants, all designed by Aereco. There is a comparison table located here: https://www.aereco.ie/products/exhaust-units-ie/bxc-2/#characteristics
+Just in case it disappears later, the gist is:
+The bathroom ones have a boost feature when a person is present. The kitchen and bathroom check for humidity (I guess the downstairs toilet won&amp;rsquo;t have much water vapour anyways).</description>
+            <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.</p>
+<p>They all look similar but are actually different variants, all designed by Aereco.
+There is a comparison table located here: <a href="https://www.aereco.ie/products/exhaust-units-ie/bxc-2/#characteristics">https://www.aereco.ie/products/exhaust-units-ie/bxc-2/#characteristics</a></p>
+<p>Just in case it disappears later, the gist is:</p>
+<ul>
+<li>The bathroom ones have a boost feature when a person is present.</li>
+<li>The kitchen and bathroom check for humidity (I guess the downstairs toilet won&rsquo;t have much water vapour anyways).</li>
+<li>The kitchen one needs to be reset after the powerdown event.</li>
+<li>The kitchen one&rsquo;s presence sensor lights up green, unlike the others (as a way of communicating diagnostics, whereas the sensor is used in the other variants).</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Location</th>
+<th>Type</th>
+<th>Part Number</th>
+<th>Humidity Sensitive</th>
+<th>Boost Airflow</th>
+<th>Boost Airflow based on presence detection</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kitchen</td>
+<td>BXC^2 hps</td>
+<td>BXC1898</td>
+<td>Y</td>
+<td>N</td>
+<td>N</td>
+</tr>
+<tr>
+<td>Upstairs Bathroom</td>
+<td>BXC^2 hpd</td>
+<td>BXC1908</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+</tr>
+<tr>
+<td>Downstairs Toilet</td>
+<td>BXC^2 pd</td>
+<td>BXC1905</td>
+<td>N</td>
+<td>Y</td>
+<td>Y</td>
+</tr>
+</tbody>
+</table>
+<h2 id="other-details">Other Details</h2>
+<ul>
+<li>There&rsquo;s a way to measure pressure using a manometer over these vents I believe, so that might be interesting to try in the future.</li>
+<li>I think the vents all make their way up to the attic, where there&rsquo;s a much larger exhuast, but I&rsquo;m not completely sure on that yet.
+<ul>
+<li>At the same time, we also have a vent over the hob but that&rsquo;s venting a different way I think.</li>
+</ul>
+</li>
+<li>I think these vents might also have features for Co2 but I&rsquo;m not sure yet.</li>
+</ul>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Using Org-Mode with Hugo</title>
+            <link>http://localhost:1313/posts/hugo-org/</link>
+            <pubDate>Thu, 27 Jun 2024 00:00:00 +0100</pubDate>
+            
+            <guid>http://localhost:1313/posts/hugo-org/</guid>
+            <description>Summary This page is a summary of stuff I&amp;rsquo;ve learnt about using org-mode with Hugo to publish webpages. It is still very much in flux as of &amp;lt;2024-06-28 Fri&amp;gt;.
+Starting Points I use emacs a fair bit and org-mode a bit so I&amp;rsquo;m interested in using an org-mode flow. Because I use hugo to generate my website at the moment, use of a package called ox-hugo seemed the most convenient.</description>
+            <content type="html"><![CDATA[<h2 id="summary">Summary</h2>
+<p>This page is a summary of stuff I&rsquo;ve learnt about using org-mode with Hugo to publish webpages.
+It is still very much in flux as of <!-- raw HTML omitted --><!-- raw HTML omitted -->&lt;2024-06-28 Fri&gt;<!-- raw HTML omitted --><!-- raw HTML omitted -->.</p>
+<h2 id="starting-points">Starting Points</h2>
+<p>I use emacs a fair bit and org-mode a bit so I&rsquo;m interested in using an org-mode flow.
+Because I use hugo to generate my website at the moment, use of a package called <a href="https://ox-hugo.scripter.co/">ox-hugo</a> seemed the most convenient.</p>
+<p>Some resources I&rsquo;ve found so far are:</p>
+<ul>
+<li><a href="https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/">https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/</a>
+<ul>
+<li>Got me up and running initially.</li>
+</ul>
+</li>
+<li><a href="https://diego.codes/post/blogging-with-org/">https://diego.codes/post/blogging-with-org/</a></li>
+<li><a href="https://lucidmanager.org/productivity/create-websites-with-org-mode-and-hugo/">https://lucidmanager.org/productivity/create-websites-with-org-mode-and-hugo/</a>
+<ul>
+<li>Handy details on front matter.</li>
+<li>Nice snippet on setting up a lastmod timestamp.</li>
+</ul>
+</li>
+</ul>
+<h2 id="adding-a-new-post">Adding a new post</h2>
+<ol>
+<li>Go to the home directory and add a new file &lsquo;post_XX.org&rsquo;.</li>
+<li>Add a preamble of #commands that can be copied from an old post.</li>
+<li>Write your post.</li>
+<li>Use of the command C-c, C-e, H, H.
+<ul>
+<li>This invokes ox-hugo that will generate the markdown file.</li>
+</ul>
+</li>
+<li>Go to a terminal and invoke &lsquo;hugo server -D&rsquo; from the home directory.</li>
+<li>Marvel at the results located at &lsquo;https://localhost:1313&rsquo;.</li>
+</ol>
+<h2 id="adding-images">Adding Images</h2>
+<p>This was the first stumbling block for me.</p>
+<ul>
+<li><a href="https://ox-hugo.scripter.co/doc/image-links/">Ox-Hugo Image Links</a>
+<ul>
+<li>Reading over this, put the images you&rsquo;re interested in, in the <em>static</em> directory.</li>
+<li>Then you can reference them using the file: prefix and various square brackets.</li>
+</ul>
+</li>
+</ul>
+<h2 id="adding-tables">Adding Tables</h2>
+<p>Firstly we can add a table by use of comma seperated values.</p>
+<ul>
+<li><a href="https://orgmode.org/worg/org-tutorials/tables.html">https://orgmode.org/worg/org-tutorials/tables.html</a></li>
+</ul>
+<h2 id="things-to-figure-out">Things to figure out</h2>
+<ol>
+<li>How do I add little hover notes?</li>
+<li>How do I change the theme properly?</li>
+</ol>
+]]></content>
+        </item>
+        
+        <item>
+            <title>What I know about Ecodan ASHPs</title>
+            <link>http://localhost:1313/posts/ecodan/</link>
+            <pubDate>Tue, 18 Jun 2024 21:14:58 +0100</pubDate>
+            
+            <guid>http://localhost:1313/posts/ecodan/</guid>
+            <description>Introduction The following is a meandering post on what I&amp;rsquo;ve learnt about heat pumps (and more specifically the Ecodan range from Mistubishi).</description>
+            <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>The following is a meandering post on what I&rsquo;ve learnt about heat pumps (and more specifically the Ecodan range from Mistubishi).</p>
+<figure><a href="/heatpump_map_1.jpeg"><img src="/heatpump_map_1.jpeg"></a>
+</figure>
+
+]]></content>
+        </item>
+        
+        <item>
+            <title>Setting up Shelly H&amp;T Plus with Home Assistant</title>
+            <link>http://localhost:1313/posts/shelly-handt/</link>
+            <pubDate>Tue, 18 Jun 2024 20:54:50 +0100</pubDate>
+            
+            <guid>http://localhost:1313/posts/shelly-handt/</guid>
+            <description>Introduction I bought two Shelly H&amp;amp;T Plus (version 3) devices a couple of months ago. The reason for choosing them at the time was because:
+They had a legible screen. The company seemed to have a reasonable reputation. There was an option to use the devices without their own apps (as in, local use only). WiFi as a protocol seemed cleaner at the time, less to go wrong. (In the meantime, I don&amp;rsquo;t know if this is so true anymore).</description>
+            <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>I bought two <a href="https://www.shelly.com/en-ie/products/product-overview/shelly-plus-h-and-t">Shelly H&amp;T Plus</a> (version 3) devices a couple of months ago.
+The reason for choosing them at the time was because:</p>
+<ul>
+<li>They had a legible screen.</li>
+<li>The company seemed to have a reasonable reputation.</li>
+<li>There was an option to use the devices without their own apps (as in, local use only).</li>
+<li>WiFi as a protocol seemed cleaner at the time, less to go wrong.
+<ul>
+<li>(In the meantime, I don&rsquo;t know if this is so true anymore).</li>
+</ul>
+</li>
+</ul>
+<h2 id="setup">Setup</h2>
+<p>Just some notes for myself next time I have to set these up..</p>
+<ol>
+<li>Pressing the button on the back for 5 seconds puts it into a setup mode where the device is a WiFI Access Point.
+<ul>
+<li>This means that you can connect to it directly via WiFi (as in, it will show up in your list of WiFi networks to connect to).</li>
+</ul>
+</li>
+<li>When this happens, go to the IP address 192.168.33.1.</li>
+<li>From here, you then have all sorts of options. In our case, we want to turn on an option called &lsquo;Outbound websocket&rsquo;.</li>
+<li>You will give it an address like: ws://192.XXXXX:8123/api/shelly/ws with SSL connectivity set up and a * for the cert.
+<ul>
+<li>(There&rsquo;s some pickiness here on the capitalization I think, looking at other folks complaints online so keep all lowercase, just in case it&rsquo;s an issue).</li>
+</ul>
+</li>
+<li>When you make changes on the webserver, you&rsquo;ll often have to reboot the temperature sensor, so just be aware of that.
+<ul>
+<li>Also, because the device goes into sleep mode often, you&rsquo;ll quite likely have to press the button on the device to get these changes to be worked on.</li>
+</ul>
+</li>
+<li>Once that&rsquo;s all done, going back to the server webpage, it should tell you that it&rsquo;s all good now.</li>
+<li>Then you go to the Home Assistant webpage and it should add the entity automatically.
+<ul>
+<li>Again, a restart of Home Assistant seemed necessary here.</li>
+</ul>
+</li>
+</ol>
+]]></content>
+        </item>
+        
+    </channel>
 </rss>

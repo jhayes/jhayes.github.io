@@ -44,6 +44,10 @@ This was the first stumbling block for me.
 Firstly we can add a table by use of comma seperated values.
 - https://orgmode.org/worg/org-tutorials/tables.html
 
+
+* Themes
+I'm currently using the [[https://github.com/rhazdon/hugo-theme-hello-friend-ng/][hello-friend-ng]] theme.
+
 * Things to figure out
 1. How do I add little hover notes?
 2. How do I change the theme properly?
