@@ -9,8 +9,9 @@
 * Summary 
 Clickbait title, couldn't resist the obvious one! This page is just a collection of details on the vents in my house for future Jack.
 
-* Details
+* Vents (Exhaust Units)
 
+Exhaust units are the devices that pull air out of a room (manufacturer's nomenclature).
 There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.
 
 They all look similar but are actually different variants, all designed by Aereco.
@@ -27,6 +28,16 @@ Just in case it disappears later, the gist of it is:
 | Upstairs Bathroom | BXC^2 hpd | BXC1908     | Y                  | Y             | Y                                         |
 | Downstairs Toilet | BXC^2 pd  | BXC1905     | N                  | Y             | Y                                         |
 
+- Troubleshooting guide for the [[file:/vents/bxchps-beeping-troubleshooting-noise.pdf][BXC^2 hps model]] (about the beeping).
+
+* Exhaust Fan
+The exhaust fan is made by Aereco also, a [[https://www.aereco.ie/products/exhaust-fans-ie/v4a-premium/][V4A336]] (The V4A Premium for 230V).
+
+- [[file:/vents/TF4496_E_V4Apremium_display-4.pdf][Installation Guide]]
+- [[file:/vents/FLY337GB_v4_display-4.pdf][Product Booklet]]
+- [[file:/vents/TF4540_C_display-1.pdf][Replacement Kit Booklet]]
+
+
 * Future Stuff
 - There's a way to measure pressure using a manometer over these vents I believe, so that might be interesting to try in the future.
 - I think the vents all make their way up to the attic, where there's a much larger exhuast, but I'm not completely sure on that yet.
@@ -36,4 +47,4 @@ Just in case it disappears later, the gist of it is:
   - (This could be a trade-off of heat loss vs stagnant air I think, not explored yet).
 
 * Links
-- This is a troubleshooting guide for the [[file:/bxchps-beeping-troubleshooting-noise.pdf][BXC^2 hps model]] (about the beeping).
+

@@ -5,23 +5,23 @@
         <description>Recent content in Posts on Jack Hayes</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Fri, 28 Jun 2024 09:58:16 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 12:07:09 +0100</lastBuildDate>
         <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Venting</title>
             <link>http://localhost:1313/posts/vents/</link>
-            <pubDate>Fri, 28 Jun 2024 09:58:16 +0100</pubDate>
+            <pubDate>Fri, 28 Jun 2024 12:07:09 +0100</pubDate>
             
             <guid>http://localhost:1313/posts/vents/</guid>
             <description>Summary Clickbait title, couldn&amp;rsquo;t resist the obvious one! This page is just a collection of details on the vents in my house for future Jack.
-Details There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.
-They all look similar but are actually different variants, all designed by Aereco. There is a comparison table located here.
-Just in case it disappears later, the gist of it is:</description>
+Vents (Exhaust Units) Exhaust units are the devices that pull air out of a room (manufacturer&amp;rsquo;s nomenclature). There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.
+They all look similar but are actually different variants, all designed by Aereco.</description>
             <content type="html"><![CDATA[<h2 id="summary">Summary</h2>
 <p>Clickbait title, couldn&rsquo;t resist the obvious one! This page is just a collection of details on the vents in my house for future Jack.</p>
-<h2 id="details">Details</h2>
-<p>There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.</p>
+<h2 id="vents--exhaust-units">Vents (Exhaust Units)</h2>
+<p>Exhaust units are the devices that pull air out of a room (manufacturer&rsquo;s nomenclature).
+There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.</p>
 <p>They all look similar but are actually different variants, all designed by Aereco.
 There is a comparison table located <a href="https://www.aereco.ie/products/exhaust-units-ie/bxc-2/#characteristics">here</a>.</p>
 <p>Just in case it disappears later, the gist of it is:</p>
@@ -69,6 +69,16 @@ There is a comparison table located <a href="https://www.aereco.ie/products/exha
 </tr>
 </tbody>
 </table>
+<ul>
+<li>Troubleshooting guide for the <a href="/vents/bxchps-beeping-troubleshooting-noise.pdf">BXC^2 hps model</a> (about the beeping).</li>
+</ul>
+<h2 id="exhaust-fan">Exhaust Fan</h2>
+<p>The exhaust fan is made by Aereco also, a <a href="https://www.aereco.ie/products/exhaust-fans-ie/v4a-premium/">V4A336</a> (The V4A Premium for 230V).</p>
+<ul>
+<li><a href="/vents/TF4496_E_V4Apremium_display-4.pdf">Installation Guide</a></li>
+<li><a href="/vents/FLY337GB_v4_display-4.pdf">Product Booklet</a></li>
+<li><a href="/vents/TF4540_C_display-1.pdf">Replacement Kit Booklet</a></li>
+</ul>
 <h2 id="future-stuff">Future Stuff</h2>
 <ul>
 <li>There&rsquo;s a way to measure pressure using a manometer over these vents I believe, so that might be interesting to try in the future.</li>
@@ -85,9 +95,6 @@ There is a comparison table located <a href="https://www.aereco.ie/products/exha
 </li>
 </ul>
 <h2 id="links">Links</h2>
-<ul>
-<li>This is a troubleshooting guide for the <a href="/bxchps-beeping-troubleshooting-noise.pdf">BXC^2 hps model</a> (about the beeping).</li>
-</ul>
 ]]></content>
         </item>
         

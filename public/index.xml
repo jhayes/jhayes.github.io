@@ -6,21 +6,21 @@
     <description>Recent content on Jack Hayes</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Jun 2024 11:41:02 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 12:07:09 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Venting</title>
+      <link>http://localhost:1313/posts/vents/</link>
+      <pubDate>Fri, 28 Jun 2024 12:07:09 +0100</pubDate>
+      <guid>http://localhost:1313/posts/vents/</guid>
+      <description>Summary Clickbait title, couldn&amp;rsquo;t resist the obvious one! This page is just a collection of details on the vents in my house for future Jack.&#xA;Vents (Exhaust Units) Exhaust units are the devices that pull air out of a room (manufacturer&amp;rsquo;s nomenclature). There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.&#xA;They all look similar but are actually different variants, all designed by Aereco.</description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 28 Jun 2024 10:32:12 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>Hi, I&amp;rsquo;m Jack.</description>
-    </item>
-    <item>
-      <title>Venting</title>
-      <link>http://localhost:1313/posts/vents/</link>
-      <pubDate>Fri, 28 Jun 2024 09:58:16 +0100</pubDate>
-      <guid>http://localhost:1313/posts/vents/</guid>
-      <description>Summary Clickbait title, couldn&amp;rsquo;t resist the obvious one! This page is just a collection of details on the vents in my house for future Jack.&#xA;Details There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.&#xA;They all look similar but are actually different variants, all designed by Aereco. There is a comparison table located here.&#xA;Just in case it disappears later, the gist of it is:</description>
     </item>
     <item>
       <title>Emacs modifications</title>

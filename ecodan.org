@@ -10,6 +10,18 @@
 The following is a meandering post on what I've learnt about heat pumps (and more specifically the Ecodan range from Mistubishi).
 
 * Map of the Plumbing
+The following image is a map of how I think the system is set up. Some of this is based off the labels attached to the pipes and other parts are guesswork.
+
+- There are two feeds of cold water coming in.
+  - One of these is from the mains.
+  - The other one comes from the tank in the attic.
+  - (It's possible that these are setup so that mains is actually from the attic and the other one is a hot return, which seems more likely).
+- These mix together and go into the heat pump.
+- These then come back out and go out again towards all three of the hot water taps and the shower.
+- 
+
+
+
 
 [[file:/heatpump_map_1.jpeg][file:/heatpump_map_1.jpeg]]
 
