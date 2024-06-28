@@ -7,4 +7,7 @@ type: "page"
 
 Hi, I'm Jack.
 
+The stuff located here is a collection of my learnings.
+
+
 

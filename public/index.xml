@@ -20,7 +20,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 28 Jun 2024 10:32:12 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Hi, I&amp;rsquo;m Jack.</description>
+      <description>Hi, I&amp;rsquo;m Jack.&#xA;The stuff located here is a collection of my learnings.</description>
     </item>
     <item>
       <title>Emacs modifications</title>
