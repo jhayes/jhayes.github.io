@@ -4,7 +4,7 @@
 #+date: [2024-06-18 Tue]
 #+lastmod: [2024-06-28 Fri]
 #+title: What I know about Ecodan ASHPs
-#+hugo_tags: house
+#+hugo_tags: house heating
 
 * Summary
 The following is a meandering post on what I've learnt about heat pumps (and more specifically the Ecodan range from Mistubishi).
@@ -14,6 +14,25 @@ The following is a meandering post on what I've learnt about heat pumps (and mor
 [[file:/heatpump_map_1.jpeg][file:/heatpump_map_1.jpeg]]
 
 * Adding a smart sensor
-It's possible to add a smart sensor.
+
+It's possible to add a smart sensor to this heating system. The model number I used was 587IF-E.
+
+When I was trying to source this, there was confusion online about the fact that there are multiple variants.
+It seems like there's a different part number for Austrialian models (or something).
+
+I bought mine on [[https://www.ebay.ie/itm/284060037125][eBay]] and it seemed to work fine.
+
+For installation, I used the following videos:
+- https://www.youtube.com/watch?v=XZj4t4kwYVQ
+- https://www.youtube.com/watch?v=i1wABPBAWK8
+
+[[file:/heatpump_sensor_1.png][file:/heatpump_sensor_1.png]]
+
 
 * Diagnostics
+** Pressure Gauge
+- Previously I had a slight weep in the system. There's a gauge that indicates the pressure of the system.
+- From talking to the plumber and heat pump service guy, keeping it in the range of 1 to 2 bar is what you're looking for, they advise.
+
+[[file:/heatpump_gauge_28jun24_1.jpeg][file:/heatpump_gauge_28jun24_1.jpeg]]
+[[file:/heatpump_gauge_28jun24_2.jpeg][file:/heatpump_gauge_28jun24_2.jpeg]]

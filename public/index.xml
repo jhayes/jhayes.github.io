@@ -1,27 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jack&#39;s Blog</title>
+    <title>Jack Hayes</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Jack&#39;s Blog</description>
+    <description>Recent content on Jack Hayes</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 28 Jun 2024 09:50:58 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 11:41:02 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 28 Jun 2024 10:32:12 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hi, I&amp;rsquo;m Jack.</description>
+    </item>
     <item>
       <title>Venting</title>
       <link>http://localhost:1313/posts/vents/</link>
-      <pubDate>Fri, 28 Jun 2024 09:50:58 +0100</pubDate>
+      <pubDate>Fri, 28 Jun 2024 09:58:16 +0100</pubDate>
       <guid>http://localhost:1313/posts/vents/</guid>
-      <description>Summary Clickbait title, couldn&amp;rsquo;t resist the obvious one! This page is just a collection of details on the vents in my house for future Jack.&#xA;Introduction There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.&#xA;They all look similar but are actually different variants, all designed by Aereco. There is a comparison table located here: https://www.aereco.ie/products/exhaust-units-ie/bxc-2/#characteristics&#xA;Just in case it disappears later, the gist is:</description>
+      <description>Summary Clickbait title, couldn&amp;rsquo;t resist the obvious one! This page is just a collection of details on the vents in my house for future Jack.&#xA;Details There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.&#xA;They all look similar but are actually different variants, all designed by Aereco. There is a comparison table located here.&#xA;Just in case it disappears later, the gist of it is:</description>
+    </item>
+    <item>
+      <title>Emacs modifications</title>
+      <link>http://localhost:1313/posts/emacs/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/emacs/</guid>
+      <description>Summary This is a list of some niggles and how I deal with them as a reference.&#xA;Deleting the first ‘x’ characters from every line in a region with Emacs. You use your mark tool (‘C-Spc’) to highlight a box area and then use the command ‘C-x r k’ to remove this square/rectangle.&#xA;Don’t worry about the mark tool highlighting the edges of lines in between, they won’t be clipped.</description>
     </item>
     <item>
       <title>Using Org-Mode with Hugo</title>
       <link>http://localhost:1313/posts/hugo-org/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/posts/hugo-org/</guid>
-      <description>Summary This page is a summary of stuff I&amp;rsquo;ve learnt about using org-mode with Hugo to publish webpages. It is still very much in flux as of &amp;lt;2024-06-28 Fri&amp;gt;.&#xA;Starting Points I use emacs a fair bit and org-mode a bit so I&amp;rsquo;m interested in using an org-mode flow. Because I use hugo to generate my website at the moment, use of a package called ox-hugo seemed the most convenient.</description>
+      <description>Summary This page is a summary of stuff I&amp;rsquo;ve learnt about using org-mode with Hugo to publish webpages. It is still very much in flux.&#xA;Starting Points I use emacs a fair bit and org-mode a bit so I&amp;rsquo;m interested in using an org-mode flow. Because I use hugo to generate my website at the moment, use of a package called ox-hugo seemed the most convenient.&#xA;Links Some resources I&amp;rsquo;ve found so far are:</description>
     </item>
     <item>
       <title>Setting up Shelly H&amp;T Plus with Home Assistant</title>
@@ -35,14 +48,7 @@
       <link>http://localhost:1313/posts/ecodan/</link>
       <pubDate>Tue, 18 Jun 2024 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/posts/ecodan/</guid>
-      <description>Summary The following is a meandering post on what I&amp;rsquo;ve learnt about heat pumps (and more specifically the Ecodan range from Mistubishi).&#xA;Map of the Plumbing Adding a smart sensor It&amp;rsquo;s possible to add a smart sensor.&#xA;Diagnostics </description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sat, 15 Apr 2023 13:48:12 +0100</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>Please display me!!</description>
+      <description>Summary The following is a meandering post on what I&amp;rsquo;ve learnt about heat pumps (and more specifically the Ecodan range from Mistubishi).&#xA;Map of the Plumbing Adding a smart sensor It&amp;rsquo;s possible to add a smart sensor to this heating system. The model number I used was 587IF-E.&#xA;When I was trying to source this, there was confusion online about the fact that there are multiple variants. It seems like there&amp;rsquo;s a different part number for Austrialian models (or something).</description>
     </item>
   </channel>
 </rss>

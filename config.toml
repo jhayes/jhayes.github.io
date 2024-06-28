@@ -53,22 +53,12 @@ theme = "hello-friend-ng"
 
   # And you can even create generic menu
   [menu]
-    [[menu.main]]
+      [[menu.main]]
 	identifier = "about"
 	name       = "About"
-  	url        = "about/"
+	url        = "about/"
     [[menu.main]]
         identifier = "blog"
     	name       = "Blog"
 	url        = "posts"
-
-  # # And you can even create generic menu
-  # [[menu.main]]
-  #   identifier = "blog"
-  #   name       = "Blog"
-  #   url        = "/posts"
-  # [[menu.main]]
-  #   identifier = "about"
-  #   name       = "About"
-  #   url        = "/about/"
 

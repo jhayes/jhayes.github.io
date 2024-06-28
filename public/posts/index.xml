@@ -1,36 +1,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Jack&#39;s Blog</title>
+        <title>Posts on Jack Hayes</title>
         <link>http://localhost:1313/posts/</link>
-        <description>Recent content in Posts on Jack&#39;s Blog</description>
+        <description>Recent content in Posts on Jack Hayes</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Fri, 28 Jun 2024 09:50:58 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 09:58:16 +0100</lastBuildDate>
         <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Venting</title>
             <link>http://localhost:1313/posts/vents/</link>
-            <pubDate>Fri, 28 Jun 2024 09:50:58 +0100</pubDate>
+            <pubDate>Fri, 28 Jun 2024 09:58:16 +0100</pubDate>
             
             <guid>http://localhost:1313/posts/vents/</guid>
             <description>Summary Clickbait title, couldn&amp;rsquo;t resist the obvious one! This page is just a collection of details on the vents in my house for future Jack.
-Introduction There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.
-They all look similar but are actually different variants, all designed by Aereco. There is a comparison table located here: https://www.aereco.ie/products/exhaust-units-ie/bxc-2/#characteristics
-Just in case it disappears later, the gist is:</description>
+Details There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.
+They all look similar but are actually different variants, all designed by Aereco. There is a comparison table located here.
+Just in case it disappears later, the gist of it is:</description>
             <content type="html"><![CDATA[<h2 id="summary">Summary</h2>
 <p>Clickbait title, couldn&rsquo;t resist the obvious one! This page is just a collection of details on the vents in my house for future Jack.</p>
-<h2 id="introduction">Introduction</h2>
+<h2 id="details">Details</h2>
 <p>There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.</p>
 <p>They all look similar but are actually different variants, all designed by Aereco.
-There is a comparison table located here: <a href="https://www.aereco.ie/products/exhaust-units-ie/bxc-2/#characteristics">https://www.aereco.ie/products/exhaust-units-ie/bxc-2/#characteristics</a></p>
-<p>Just in case it disappears later, the gist is:</p>
+There is a comparison table located <a href="https://www.aereco.ie/products/exhaust-units-ie/bxc-2/#characteristics">here</a>.</p>
+<p>Just in case it disappears later, the gist of it is:</p>
 <ul>
 <li>The bathroom ones have a boost feature when a person is present.</li>
-<li>The kitchen and bathroom check for humidity (I guess the downstairs toilet won&rsquo;t have much water vapour anyways).</li>
+<li>The kitchen and bathroom check for humidity (I guess the thinking is that a downstairs toilet won&rsquo;t have much water vapour anyways).</li>
 <li>The kitchen one needs to be reset after the powerdown event.</li>
-<li>The kitchen one&rsquo;s presence sensor lights up green, unlike the others (as a way of communicating diagnostics, whereas the sensor is used in the other variants).</li>
+<li>The kitchen one&rsquo;s presence sensor lights up green, unlike the others (as a way of communicating diagnostics, whereas the sensor is used in the other variants and doesn&rsquo;t light up).</li>
 </ul>
 <table>
 <thead>
@@ -70,7 +69,7 @@ There is a comparison table located here: <a href="https://www.aereco.ie/product
 </tr>
 </tbody>
 </table>
-<h2 id="other-details">Other Details</h2>
+<h2 id="future-stuff">Future Stuff</h2>
 <ul>
 <li>There&rsquo;s a way to measure pressure using a manometer over these vents I believe, so that might be interesting to try in the future.</li>
 <li>I think the vents all make their way up to the attic, where there&rsquo;s a much larger exhuast, but I&rsquo;m not completely sure on that yet.
@@ -79,11 +78,47 @@ There is a comparison table located here: <a href="https://www.aereco.ie/product
 </ul>
 </li>
 <li>I think these vents might also have features for Co2 but I&rsquo;m not sure yet.</li>
+<li>The vent doors are adjustable I believe, so you can increase the amount of venting.
+<ul>
+<li>(This could be a trade-off of heat loss vs stagnant air I think, not explored yet).</li>
+</ul>
+</li>
 </ul>
 <h2 id="links">Links</h2>
 <ul>
-<li>This is a troubleshooting guide for the <a href="/bxchps-beeping-troubleshooting-noise.pdf">BXC^2 hps model</a>.</li>
+<li>This is a troubleshooting guide for the <a href="/bxchps-beeping-troubleshooting-noise.pdf">BXC^2 hps model</a> (about the beeping).</li>
 </ul>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Emacs modifications</title>
+            <link>http://localhost:1313/posts/emacs/</link>
+            <pubDate>Fri, 28 Jun 2024 00:00:00 +0100</pubDate>
+            
+            <guid>http://localhost:1313/posts/emacs/</guid>
+            <description>Summary This is a list of some niggles and how I deal with them as a reference.
+Deleting the first ‘x’ characters from every line in a region with Emacs. You use your mark tool (‘C-Spc’) to highlight a box area and then use the command ‘C-x r k’ to remove this square/rectangle.
+Don’t worry about the mark tool highlighting the edges of lines in between, they won’t be clipped.</description>
+            <content type="html"><![CDATA[<h2 id="summary">Summary</h2>
+<p>This is a list of some niggles and how I deal with them as a reference.</p>
+<h2 id="deleting-the-first-x-characters-from-every-line-in-a-region-with-emacs-dot">Deleting the first ‘x’ characters from every line in a region with Emacs.</h2>
+<p>You use your mark tool (‘C-Spc’) to highlight a box area and then use the command ‘C-x r k’ to remove this square/rectangle.</p>
+<p>Don’t worry about the mark tool highlighting the edges of lines in between, they won’t be clipped.</p>
+<p><a href="https://stackoverflow.com/questions/15929872/deleting-the-first-x-characters-from-every-line-in-a-region-with-emacs">Link</a></p>
+<h2 id="handy-way-to-append-a-flag-to-the-end-of-a-line-dot">Handy way to append a flag to the end of a line.</h2>
+<p>Command: M-&lt; M-x replace-regexp RET $ RET a RET</p>
+<p>This will place an ‘a’ at the end of all lines. The $ matches the end-of-line character.</p>
+<p>Also one of the other answers shows how to use key-macros so could be handy later.</p>
+<h2 id="reload-configurations-without-restarting-emacs">Reload configurations without restarting Emacs</h2>
+<p>A quick way to reload your .emacs after making changes, to save a restart.</p>
+<p>``` html
+// M-x eval-buffer
+```</p>
+<p><a href="https://stackoverflow.com/questions/167705/reload-configurations-without-restarting-emacs">Link</a></p>
+<h2 id="finding-location-of-dot-emacs-file-dot">Finding location of .emacs file.</h2>
+<p>C-h v &lsquo;user-init-file&rsquo;</p>
+<p><a href="https://stackoverflow.com/questions/864892/how-do-i-find-which-emacs-file-has-been-loaded">Link</a></p>
 ]]></content>
         </item>
         
@@ -93,23 +128,25 @@ There is a comparison table located here: <a href="https://www.aereco.ie/product
             <pubDate>Thu, 27 Jun 2024 00:00:00 +0100</pubDate>
             
             <guid>http://localhost:1313/posts/hugo-org/</guid>
-            <description>Summary This page is a summary of stuff I&amp;rsquo;ve learnt about using org-mode with Hugo to publish webpages. It is still very much in flux as of &amp;lt;2024-06-28 Fri&amp;gt;.
-Starting Points I use emacs a fair bit and org-mode a bit so I&amp;rsquo;m interested in using an org-mode flow. Because I use hugo to generate my website at the moment, use of a package called ox-hugo seemed the most convenient.</description>
+            <description>Summary This page is a summary of stuff I&amp;rsquo;ve learnt about using org-mode with Hugo to publish webpages. It is still very much in flux.
+Starting Points I use emacs a fair bit and org-mode a bit so I&amp;rsquo;m interested in using an org-mode flow. Because I use hugo to generate my website at the moment, use of a package called ox-hugo seemed the most convenient.
+Links Some resources I&amp;rsquo;ve found so far are:</description>
             <content type="html"><![CDATA[<h2 id="summary">Summary</h2>
 <p>This page is a summary of stuff I&rsquo;ve learnt about using org-mode with Hugo to publish webpages.
-It is still very much in flux as of <!-- raw HTML omitted --><!-- raw HTML omitted -->&lt;2024-06-28 Fri&gt;<!-- raw HTML omitted --><!-- raw HTML omitted -->.</p>
+It is still very much in flux.</p>
 <h2 id="starting-points">Starting Points</h2>
 <p>I use emacs a fair bit and org-mode a bit so I&rsquo;m interested in using an org-mode flow.
 Because I use hugo to generate my website at the moment, use of a package called <a href="https://ox-hugo.scripter.co/">ox-hugo</a> seemed the most convenient.</p>
+<h3 id="links">Links</h3>
 <p>Some resources I&rsquo;ve found so far are:</p>
 <ul>
-<li><a href="https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/">https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/</a>
+<li><a href="https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/">Andrey Listopadov&rsquo;s setup</a>
 <ul>
 <li>Got me up and running initially.</li>
 </ul>
 </li>
-<li><a href="https://diego.codes/post/blogging-with-org/">https://diego.codes/post/blogging-with-org/</a></li>
-<li><a href="https://lucidmanager.org/productivity/create-websites-with-org-mode-and-hugo/">https://lucidmanager.org/productivity/create-websites-with-org-mode-and-hugo/</a>
+<li><a href="https://diego.codes/post/blogging-with-org/">Diego Vicente&rsquo;s setup</a></li>
+<li><a href="https://lucidmanager.org/productivity/create-websites-with-org-mode-and-hugo/">Dr. Peter Prevos&rsquo; setup</a>
 <ul>
 <li>Handy details on front matter.</li>
 <li>Nice snippet on setting up a lastmod timestamp.</li>
@@ -130,15 +167,14 @@ Because I use hugo to generate my website at the moment, use of a package called
 <li>Go to a terminal and invoke &lsquo;hugo server -D&rsquo; from the home directory.</li>
 <li>Marvel at the results located at &lsquo;https://localhost:1313&rsquo;.</li>
 </ol>
-<h2 id="adding-images">Adding Images</h2>
-<p>This was the first stumbling block for me.</p>
-<ul>
-<li><a href="https://ox-hugo.scripter.co/doc/image-links/">Ox-Hugo Image Links</a>
-<ul>
-<li>Reading over this, put the images you&rsquo;re interested in, in the <em>static</em> directory.</li>
+<h2 id="adding-images-and-pdfs-dot">Adding Images and PDFs.</h2>
+<ol>
+<li>Put the images you&rsquo;re interested in, in the <em>static</em> directory.</li>
 <li>Then you can reference them using the file: prefix and various square brackets.</li>
-</ul>
-</li>
+</ol>
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="https://ox-hugo.scripter.co/doc/image-links/">Ox-Hugo Image Links</a></li>
 </ul>
 <h2 id="adding-tables">Adding Tables</h2>
 <p>Firstly we can add a table by use of comma seperated values.</p>
@@ -213,8 +249,8 @@ The reason for choosing them at the time was because:</p>
             
             <guid>http://localhost:1313/posts/ecodan/</guid>
             <description>Summary The following is a meandering post on what I&amp;rsquo;ve learnt about heat pumps (and more specifically the Ecodan range from Mistubishi).
-Map of the Plumbing Adding a smart sensor It&amp;rsquo;s possible to add a smart sensor.
-Diagnostics </description>
+Map of the Plumbing Adding a smart sensor It&amp;rsquo;s possible to add a smart sensor to this heating system. The model number I used was 587IF-E.
+When I was trying to source this, there was confusion online about the fact that there are multiple variants. It seems like there&amp;rsquo;s a different part number for Austrialian models (or something).</description>
             <content type="html"><![CDATA[<h2 id="summary">Summary</h2>
 <p>The following is a meandering post on what I&rsquo;ve learnt about heat pumps (and more specifically the Ecodan range from Mistubishi).</p>
 <h2 id="map-of-the-plumbing">Map of the Plumbing</h2>
@@ -222,8 +258,26 @@ Diagnostics </description>
 </figure>
 
 <h2 id="adding-a-smart-sensor">Adding a smart sensor</h2>
-<p>It&rsquo;s possible to add a smart sensor.</p>
+<p>It&rsquo;s possible to add a smart sensor to this heating system. The model number I used was 587IF-E.</p>
+<p>When I was trying to source this, there was confusion online about the fact that there are multiple variants.
+It seems like there&rsquo;s a different part number for Austrialian models (or something).</p>
+<p>I bought mine on <a href="https://www.ebay.ie/itm/284060037125">eBay</a> and it seemed to work fine.</p>
+<p>For installation, I used the following videos:</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=XZj4t4kwYVQ">https://www.youtube.com/watch?v=XZj4t4kwYVQ</a></li>
+<li><a href="https://www.youtube.com/watch?v=i1wABPBAWK8">https://www.youtube.com/watch?v=i1wABPBAWK8</a></li>
+</ul>
+<figure><a href="/heatpump_sensor_1.png"><img src="/heatpump_sensor_1.png"></a>
+</figure>
+
 <h2 id="diagnostics">Diagnostics</h2>
+<h3 id="pressure-gauge">Pressure Gauge</h3>
+<ul>
+<li>Previously I had a slight weep in the system. There&rsquo;s a gauge that indicates the pressure of the system.</li>
+<li>From talking to the plumber and heat pump service guy, keeping it in the range of 1 to 2 bar is what you&rsquo;re looking for, they advise.</li>
+</ul>
+<p><a href="/heatpump_gauge_28jun24_1.jpeg"><img src="/heatpump_gauge_28jun24_1.jpeg"></a>
+<a href="/heatpump_gauge_28jun24_2.jpeg"><img src="/heatpump_gauge_28jun24_2.jpeg"></a></p>
 ]]></content>
         </item>
         

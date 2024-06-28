@@ -2,7 +2,7 @@
 title = "Using Org-Mode with Hugo"
 author = ["Jack"]
 date = 2024-06-27T00:00:00+01:00
-lastmod = 2024-06-28T09:46:57+01:00
+lastmod = 2024-06-28T10:04:34+01:00
 tags = ["hugo", "emacs"]
 draft = false
 +++
@@ -10,7 +10,7 @@ draft = false
 ## Summary {#summary}
 
 This page is a summary of stuff I've learnt about using org-mode with Hugo to publish webpages.
-It is still very much in flux as of <span class="timestamp-wrapper"><span class="timestamp">&lt;2024-06-28 Fri&gt;</span></span>.
+It is still very much in flux.
 
 
 ## Starting Points {#starting-points}
@@ -18,12 +18,15 @@ It is still very much in flux as of <span class="timestamp-wrapper"><span class=
 I use emacs a fair bit and org-mode a bit so I'm interested in using an org-mode flow.
 Because I use hugo to generate my website at the moment, use of a package called [ox-hugo](https://ox-hugo.scripter.co/) seemed the most convenient.
 
+
+### Links {#links}
+
 Some resources I've found so far are:
 
--   <https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/>
+-   [Andrey Listopadov's setup](https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/)
     -   Got me up and running initially.
--   <https://diego.codes/post/blogging-with-org/>
--   <https://lucidmanager.org/productivity/create-websites-with-org-mode-and-hugo/>
+-   [Diego Vicente's setup](https://diego.codes/post/blogging-with-org/)
+-   [Dr. Peter Prevos' setup](https://lucidmanager.org/productivity/create-websites-with-org-mode-and-hugo/)
     -   Handy details on front matter.
     -   Nice snippet on setting up a lastmod timestamp.
     -   Note that he doesn't use ox-hugo.
@@ -40,13 +43,15 @@ Some resources I've found so far are:
 6.  Marvel at the results located at 'https://localhost:1313'.
 
 
-## Adding Images {#adding-images}
+## Adding Images and PDFs. {#adding-images-and-pdfs-dot}
 
-This was the first stumbling block for me.
+1.  Put the images you're interested in, in the _static_ directory.
+2.  Then you can reference them using the file: prefix and various square brackets.
+
+
+### Links {#links}
 
 -   [Ox-Hugo Image Links](https://ox-hugo.scripter.co/doc/image-links/)
-    -   Reading over this, put the images you're interested in, in the _static_ directory.
-    -   Then you can reference them using the file: prefix and various square brackets.
 
 
 ## Adding Tables {#adding-tables}

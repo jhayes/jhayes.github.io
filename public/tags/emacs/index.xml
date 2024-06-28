@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emacs on Jack&#39;s Blog</title>
+    <title>Emacs on Jack Hayes</title>
     <link>http://localhost:1313/tags/emacs/</link>
-    <description>Recent content in Emacs on Jack&#39;s Blog</description>
+    <description>Recent content in Emacs on Jack Hayes</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 28 Jun 2024 08:53:19 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 10:14:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emacs modifications</title>
+      <link>http://localhost:1313/posts/emacs/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/emacs/</guid>
+      <description>Summary This is a list of some niggles and how I deal with them as a reference.&#xA;Deleting the first ‘x’ characters from every line in a region with Emacs. You use your mark tool (‘C-Spc’) to highlight a box area and then use the command ‘C-x r k’ to remove this square/rectangle.&#xA;Don’t worry about the mark tool highlighting the edges of lines in between, they won’t be clipped.</description>
+    </item>
     <item>
       <title>Using Org-Mode with Hugo</title>
       <link>http://localhost:1313/posts/hugo-org/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/posts/hugo-org/</guid>
-      <description>Summary This page is a summary of stuff I&amp;rsquo;ve learnt about using org-mode with Hugo to publish webpages. It is still very much in flux as of &amp;lt;2024-06-28 Fri&amp;gt;.&#xA;Starting Points I use emacs a fair bit and org-mode a bit so I&amp;rsquo;m interested in using an org-mode flow. Because I use hugo to generate my website at the moment, use of a package called ox-hugo seemed the most convenient.</description>
+      <description>Summary This page is a summary of stuff I&amp;rsquo;ve learnt about using org-mode with Hugo to publish webpages. It is still very much in flux.&#xA;Starting Points I use emacs a fair bit and org-mode a bit so I&amp;rsquo;m interested in using an org-mode flow. Because I use hugo to generate my website at the moment, use of a package called ox-hugo seemed the most convenient.&#xA;Links Some resources I&amp;rsquo;ve found so far are:</description>
     </item>
   </channel>
 </rss>

@@ -8,18 +8,19 @@
 
 * Summary
 This page is a summary of stuff I've learnt about using org-mode with Hugo to publish webpages.
-It is still very much in flux as of <2024-06-28 Fri>.
+It is still very much in flux.
 
 * Starting Points
 
 I use emacs a fair bit and org-mode a bit so I'm interested in using an org-mode flow.
 Because I use hugo to generate my website at the moment, use of a package called [[https://ox-hugo.scripter.co/][ox-hugo]] seemed the most convenient.
 
+** Links
 Some resources I've found so far are:
-- https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/
+- [[https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/][Andrey Listopadov's setup]]
   - Got me up and running initially.
-- https://diego.codes/post/blogging-with-org/
-- https://lucidmanager.org/productivity/create-websites-with-org-mode-and-hugo/
+- [[https://diego.codes/post/blogging-with-org/][Diego Vicente's setup]]
+- [[https://lucidmanager.org/productivity/create-websites-with-org-mode-and-hugo/][Dr. Peter Prevos' setup]]
   - Handy details on front matter.
   - Nice snippet on setting up a lastmod timestamp.
   - Note that he doesn't use ox-hugo.
@@ -33,11 +34,12 @@ Some resources I've found so far are:
 5. Go to a terminal and invoke 'hugo server -D' from the home directory.
 6. Marvel at the results located at 'https://localhost:1313'.
   
-* Adding Images
-This was the first stumbling block for me.
+* Adding Images and PDFs.
+1. Put the images you're interested in, in the /static/ directory.
+2. Then you can reference them using the file: prefix and various square brackets.
+
+** Links
 - [[https://ox-hugo.scripter.co/doc/image-links/][Ox-Hugo Image Links]]
-  - Reading over this, put the images you're interested in, in the /static/ directory.
-  - Then you can reference them using the file: prefix and various square brackets.
 
 * Adding Tables
 Firstly we can add a table by use of comma seperated values.
@@ -50,3 +52,7 @@ I'm currently using the [[https://github.com/rhazdon/hugo-theme-hello-friend-ng/
 * Things to figure out
 1. How do I add little hover notes?
 2. How do I change the theme properly?
+3. How do I mark code differently?
+4. Is use of individual files a better option or not for ox-hugo?
+   - How hard to move between these in order to experiment? (Don't want to gobble up too much time on tweaking).
+5. How do I modify the home page?
