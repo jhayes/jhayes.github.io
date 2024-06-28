@@ -3,10 +3,14 @@
 #+hugo_auto_set_lastmod: t
 #+hugo_draft: false
 
-#+title: Vents
+#+title: Venting
 #+hugo_tags: house
 
+* Summary 
+Clickbait title, couldn't resist the obvious one! This page is just a collection of details on the vents in my house for future Jack.
+
 * Introduction
+
 There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.
 
 They all look similar but are actually different variants, all designed by Aereco.

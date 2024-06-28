@@ -6,7 +6,7 @@
     <description>Recent content on Jack Hayes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jun 2024 23:44:36 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 08:53:19 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vents</title>
@@ -18,9 +18,9 @@
     <item>
       <title>Using Org-Mode with Hugo</title>
       <link>http://localhost:1313/posts/hugo-org/</link>
-      <pubDate>Thu, 27 Jun 2024 21:15:00 +0100</pubDate>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/posts/hugo-org/</guid>
-      <description>Starting Points Still learning how to use this.&#xA;I use emacs a fair bit and org-mode a bit so I&amp;rsquo;m interested in using an org-mode flow. It&amp;rsquo;s unclear yet if it&amp;rsquo;s worth the effort for me but I&amp;rsquo;ll give it a go anyways.&#xA;I&amp;rsquo;m currently working my way through a post by a guy called Andreyor.&#xA;A list of stuff in this area:&#xA;https://andreyor.st/posts/2022-10-16-my-blogging-setup-with-emacs-and-org-mode/ https://diego.codes/post/blogging-with-org/ Adding a new post Go to the home directory and add a new file &amp;lsquo;post_XX.</description>
+      <description>Summary This page is a summary of stuff I&amp;rsquo;ve learnt about using org-mode with Hugo to publish webpages. It is still very much in flux as of &amp;lt;2024-06-28 Fri&amp;gt;.&#xA;Starting Points I use emacs a fair bit and org-mode a bit so I&amp;rsquo;m interested in using an org-mode flow. Because I use hugo to generate my website at the moment, use of a package called ox-hugo seemed the most convenient.</description>
     </item>
     <item>
       <title>What I know about Ecodan ASHPs</title>
