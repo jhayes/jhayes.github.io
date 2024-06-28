@@ -107,6 +107,7 @@ Because I use hugo to generate my website at the moment, use of a package called
 <ul>
 <li>Handy details on front matter.</li>
 <li>Nice snippet on setting up a lastmod timestamp.</li>
+<li>Note that he doesn&rsquo;t use ox-hugo.</li>
 </ul>
 </li>
 </ul>
@@ -138,6 +139,8 @@ Because I use hugo to generate my website at the moment, use of a package called
 <ul>
 <li><a href="https://orgmode.org/worg/org-tutorials/tables.html">https://orgmode.org/worg/org-tutorials/tables.html</a></li>
 </ul>
+<h2 id="themes">Themes</h2>
+<p>I&rsquo;m currently using the <a href="https://github.com/rhazdon/hugo-theme-hello-friend-ng/">hello-friend-ng</a> theme.</p>
 <h2 id="things-to-figure-out">Things to figure out</h2>
 <ol>
 <li>How do I add little hover notes?</li>

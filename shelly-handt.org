@@ -1,6 +1,8 @@
 #+hugo_base_dir: ./
 #+hugo_section: posts
 #+hugo_auto_set_lastmod: t
+#+date: [2024-06-18 Tue]
+#+lastmod: [2024-06-28 Fri]
 
 #+title: Setting up Shelly H&T Plus with Home Assistant
 #+hugo_tags: home-assistant

@@ -2,7 +2,7 @@
 title = "Using Org-Mode with Hugo"
 author = ["Jack"]
 date = 2024-06-27T00:00:00+01:00
-lastmod = 2024-06-28T08:53:19+01:00
+lastmod = 2024-06-28T09:27:26+01:00
 tags = ["hugo", "emacs"]
 draft = false
 +++
@@ -26,6 +26,7 @@ Some resources I've found so far are:
 -   <https://lucidmanager.org/productivity/create-websites-with-org-mode-and-hugo/>
     -   Handy details on front matter.
     -   Nice snippet on setting up a lastmod timestamp.
+    -   Note that he doesn't use ox-hugo.
 
 
 ## Adding a new post {#adding-a-new-post}
@@ -53,6 +54,11 @@ This was the first stumbling block for me.
 Firstly we can add a table by use of comma seperated values.
 
 -   <https://orgmode.org/worg/org-tutorials/tables.html>
+
+
+## Themes {#themes}
+
+I'm currently using the [hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng/) theme.
 
 
 ## Things to figure out {#things-to-figure-out}
