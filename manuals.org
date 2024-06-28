@@ -1,0 +1,16 @@
+#+hugo_base_dir: ./
+#+hugo_section: posts
+#+hugo_auto_set_lastmod: t
+#+date: [2024-06-28 Fri]
+#+lastmod: [2024-06-28 Fri]
+#+title: House Manuals
+#+hugo_tags: house manuals
+
+* Summary
+It seems like it might be a good idea to group all the manuals for various appliances together.
+
+* Kitchen
+** Heat Pump
+- 
+
+* Living Room

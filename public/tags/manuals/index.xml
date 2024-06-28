@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuals on Jack Hayes</title>
+    <link>http://localhost:1313/tags/manuals/</link>
+    <description>Recent content in Manuals on Jack Hayes</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Jun 2024 14:29:09 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/manuals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>House Manuals</title>
+      <link>http://localhost:1313/posts/manuals/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/manuals/</guid>
+      <description>Summary It seems like it might be a good idea to group all the manuals for various appliances together.&#xA;Kitchen Heat Pump Living Room </description>
+    </item>
+  </channel>
+</rss>

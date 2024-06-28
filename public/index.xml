@@ -6,7 +6,7 @@
     <description>Recent content on Jack Hayes</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Jun 2024 13:45:36 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 23:00:07 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Venting</title>
@@ -28,6 +28,13 @@
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/posts/emacs/</guid>
       <description>Summary This is a list of some niggles and how I deal with them as a reference.&#xA;Deleting the first ‘x’ characters from every line in a region with Emacs. You use your mark tool (‘C-Spc’) to highlight a box area and then use the command ‘C-x r k’ to remove this square/rectangle.&#xA;Don’t worry about the mark tool highlighting the edges of lines in between, they won’t be clipped.</description>
+    </item>
+    <item>
+      <title>House Manuals</title>
+      <link>http://localhost:1313/posts/manuals/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/manuals/</guid>
+      <description>Summary It seems like it might be a good idea to group all the manuals for various appliances together.&#xA;Kitchen Heat Pump Living Room </description>
     </item>
     <item>
       <title>Using Org-Mode with Hugo</title>

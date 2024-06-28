@@ -23,6 +23,7 @@ In this case, our source is Air and our sink is Water.
 
 - [[file:/heatpumps/Ecodan_PUZ-WM50VHA_Monobloc_Air_Source_Heat_Pump_Product_Information_Sheet.pdf][Ecodan PUZ-WM50VHA Information Sheet]]
 - [[file:/heatpumps/EcodanPUZ-WM_50-60-85-112_V_H-A_A_Installation_Manual__BH79D849H02UK_.pdf][Ecodan PUZ-WM Installation Guide]]
+- [[file:/heatpumps/Ecodan_PUZ-WM_50-60-85-112_V_H-A_A_Service_Manual__OCH727A_.pdf][Ecodan PUZ-WV50VHA (OCH727) Service Manual]]
 
 ** The Indoor Unit (Cylinder Unit)
 Judging by the label on the unit, this an EHPT17X-VM2DR1.UK model. The 17 in the title means that it has a 170 litre DHW (Domestic Hot Water) tank.
@@ -31,6 +32,8 @@ Judging by the label on the unit, this an EHPT17X-VM2DR1.UK model. The 17 in the
 ** Map of the Plumbing
 The following image is a map of the pipework above the cylinder unit, with labels.
 Some of this is based off the labels attached to the pipes and other parts are guesswork.
+
+*** DHW Details
 
 - There are two feeds of water coming in.
   - One of these is labelled cold; I think this comes from the tank in the attic.
@@ -41,6 +44,23 @@ Some of this is based off the labels attached to the pipes and other parts are g
 - These then come back out and go out again towards all three of the hot water taps and the shower.
 
 [[file:/heatpumps/heatpump_map_1.jpeg][file:/heatpump_map_1.jpeg]]
+
+*** Radiator Details
+- Starting from the left, I think these are two return paths for the radiators.
+- They combine together and then enter a filter before going into the unit.
+  - (The filter is a [[https://fernox.com/product/tf1-sigma-filter/][Fernox TF1 Sigma Filter]], which has a 10 year warranty).
+  - [[file:/heatpumps/62417-TF1-Sigma-Filter.pdf][TF1 Sigma Filter 28mm Data Sheet]]
+    - This data sheet shows how to clean the filter also.
+- The heated up fluid then comes out of the cylinder unit, from the second pipe from the left.
+  - There are two tap points here with a valve between.
+    - I think this is to allow for an underfloor heating loop to be added on conveniently.
+  - This hot line then goes up and branches into two separate lines.
+  - Each line has a motorized control valve on it.
+    - (Adjusting the thermostats in the rooms seems to have an effect on these, lighting them up).
+    - [[file:/heatpumps/2023-04-27_V22_P-FP_DS_PK_Email.pdf][EPH V222PW Installation & Technical Spec Document]]
+
+*** Other Details
+
 
 * Adding a smart sensor
 

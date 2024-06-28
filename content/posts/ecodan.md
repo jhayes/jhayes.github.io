@@ -2,7 +2,7 @@
 title = "What I know about Ecodan ASHPs"
 author = ["Jack"]
 date = 2024-06-18T00:00:00+01:00
-lastmod = 2024-06-28T13:45:36+01:00
+lastmod = 2024-06-28T23:00:07+01:00
 tags = ["house", "heating"]
 draft = false
 +++
@@ -28,6 +28,7 @@ In this case, our source is Air and our sink is Water.
 
 -   [Ecodan PUZ-WM50VHA Information Sheet](/heatpumps/Ecodan_PUZ-WM50VHA_Monobloc_Air_Source_Heat_Pump_Product_Information_Sheet.pdf)
 -   [Ecodan PUZ-WM Installation Guide](/heatpumps/EcodanPUZ-WM_50-60-85-112_V_H-A_A_Installation_Manual__BH79D849H02UK_.pdf)
+-   [Ecodan PUZ-WV50VHA (OCH727) Service Manual](/heatpumps/Ecodan_PUZ-WM_50-60-85-112_V_H-A_A_Service_Manual__OCH727A_.pdf)
 
 
 ### The Indoor Unit (Cylinder Unit) {#the-indoor-unit--cylinder-unit}
@@ -42,6 +43,9 @@ Judging by the label on the unit, this an EHPT17X-VM2DR1.UK model. The 17 in the
 The following image is a map of the pipework above the cylinder unit, with labels.
 Some of this is based off the labels attached to the pipes and other parts are guesswork.
 
+
+#### DHW Details {#dhw-details}
+
 -   There are two feeds of water coming in.
     -   One of these is labelled cold; I think this comes from the tank in the attic.
         -   (It could be coming from mains but I don't think it is because it's coming down from the ceiling so seems like an unlikely path).
@@ -51,6 +55,25 @@ Some of this is based off the labels attached to the pipes and other parts are g
 -   These then come back out and go out again towards all three of the hot water taps and the shower.
 
 {{< figure src="/heatpump_map_1.jpeg" link="/heatpumps/heatpump_map_1.jpeg" >}}
+
+
+#### Radiator Details {#radiator-details}
+
+-   Starting from the left, I think these are two return paths for the radiators.
+-   They combine together and then enter a filter before going into the unit.
+    -   (The filter is a [Fernox TF1 Sigma Filter](https://fernox.com/product/tf1-sigma-filter/), which has a 10 year warranty).
+    -   [TF1 Sigma Filter 28mm Data Sheet](/heatpumps/62417-TF1-Sigma-Filter.pdf)
+        -   This data sheet shows how to clean the filter also.
+-   The heated up fluid then comes out of the cylinder unit, from the second pipe from the left.
+    -   There are two tap points here with a valve between.
+        -   I think this is to allow for an underfloor heating loop to be added on conveniently.
+    -   This hot line then goes up and branches into two separate lines.
+    -   Each line has a motorized control valve on it.
+        -   (Adjusting the thermostats in the rooms seems to have an effect on these, lighting them up).
+        -   [EPH V222PW Installation &amp; Technical Spec Document](/heatpumps/2023-04-27_V22_P-FP_DS_PK_Email.pdf)
+
+
+#### Other Details {#other-details}
 
 
 ## Adding a smart sensor {#adding-a-smart-sensor}
