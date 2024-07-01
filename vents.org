@@ -33,6 +33,7 @@ Just in case it disappears later, the gist of it is:
 * Exhaust Fan
 
 The exhaust fan is made by Aereco also, a [[https://www.aereco.ie/products/exhaust-fans-ie/v4a-premium/][V4A336]] (The V4A Premium for 230V).
+Looking over the manual, it's suggested that the propeller is cleaned once a year (see pg7 of the installation guide).
 
 - [[file:/vents/TF4496_E_V4Apremium_display-4.pdf][Installation Guide]]
 - [[file:/vents/FLY337GB_v4_display-4.pdf][Product Booklet]]

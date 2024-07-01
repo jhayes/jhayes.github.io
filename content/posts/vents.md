@@ -1,7 +1,7 @@
 +++
 title = "Venting"
 author = ["Jack"]
-lastmod = 2024-06-28T12:07:09+01:00
+lastmod = 2024-07-01T23:30:07+01:00
 tags = ["house"]
 draft = false
 +++
@@ -13,7 +13,7 @@ Clickbait title, couldn't resist the obvious one! This page is just a collection
 
 ## Vents (Exhaust Units) {#vents--exhaust-units}
 
-Exhaust units are the devices that pull air out of a room (manufacturer's nomenclature).
+Exhaust units are the devices that pull air out of a room, also called vents.
 There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.
 
 They all look similar but are actually different variants, all designed by Aereco.
@@ -38,6 +38,7 @@ Just in case it disappears later, the gist of it is:
 ## Exhaust Fan {#exhaust-fan}
 
 The exhaust fan is made by Aereco also, a [V4A336](https://www.aereco.ie/products/exhaust-fans-ie/v4a-premium/) (The V4A Premium for 230V).
+Looking over the manual, it's suggested that the propeller is cleaned once a year (see pg7 of the installation guide).
 
 -   [Installation Guide](/vents/TF4496_E_V4Apremium_display-4.pdf)
 -   [Product Booklet](/vents/FLY337GB_v4_display-4.pdf)
@@ -47,11 +48,9 @@ The exhaust fan is made by Aereco also, a [V4A336](https://www.aereco.ie/product
 ## Future Stuff {#future-stuff}
 
 -   There's a way to measure pressure using a manometer over these vents I believe, so that might be interesting to try in the future.
--   I think the vents all make their way up to the attic, where there's a much larger exhuast, but I'm not completely sure on that yet.
-    -   At the same time, we also have a vent over the hob but that's venting a different way I think.
+-   I think the vents all make their way up to the attic, where there's a much larger exhaust, but I'm not completely sure on all the details on that yet.
+    -   At the same time, we also have a vent over the hob but that's venting a different way I think?
 -   I think these vents might also have features for Co2 but I'm not sure yet.
 -   The vent doors are adjustable I believe, so you can increase the amount of venting.
     -   (This could be a trade-off of heat loss vs stagnant air I think, not explored yet).
-
-
-## Links {#links}
+-   I haven't yet traced all the ducts around the place (starting with the exhaust).
