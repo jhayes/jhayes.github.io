@@ -6,7 +6,7 @@
     <description>Recent content in House on Jack Hayes</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Jun 2024 13:45:36 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 23:00:07 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/house/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Venting</title>
@@ -14,6 +14,13 @@
       <pubDate>Fri, 28 Jun 2024 12:07:09 +0100</pubDate>
       <guid>http://localhost:1313/posts/vents/</guid>
       <description>Summary Clickbait title, couldn&amp;rsquo;t resist the obvious one! This page is just a collection of details on the vents in my house for future Jack.&#xA;Vents (Exhaust Units) Exhaust units are the devices that pull air out of a room (manufacturer&amp;rsquo;s nomenclature). There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.&#xA;They all look similar but are actually different variants, all designed by Aereco.</description>
+    </item>
+    <item>
+      <title>House Manuals</title>
+      <link>http://localhost:1313/posts/manuals/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/manuals/</guid>
+      <description>Summary It seems like it might be a good idea to group all the manuals for various appliances together.&#xA;Kitchen Heat Pump Living Room </description>
     </item>
     <item>
       <title>What I know about Ecodan ASHPs</title>

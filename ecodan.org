@@ -2,7 +2,7 @@
 #+hugo_section: posts
 #+hugo_auto_set_lastmod: t
 #+date: [2024-06-18 Tue]
-#+lastmod: [2024-06-28 Fri]
+#+lastmod: [2024-07-01 Mon]
 #+title: What I know about Ecodan ASHPs
 #+hugo_tags: house heating
 
@@ -17,9 +17,11 @@ The gist of the sytem is shown in the following infographic.
 
 ** The Outdoor Unit 
 I'm using an 5kW Mitsubishi Ecodan Air to Water Heat Pump. It uses [[https://en.wikipedia.org/wiki/Difluoromethane][R32]] as its refrigerant.
+It's a *Monobloc* unit, this means that the refrigerant is all contained outdoors and only water migrates into the house.
 
 There are two sides to every heat pump, the source and the sink. One can think of the source (air passing through the fan outdoors) as the input and the sink as the output (our radiators, etc).
 In this case, our source is Air and our sink is Water.
+
 
 - [[file:/heatpumps/Ecodan_PUZ-WM50VHA_Monobloc_Air_Source_Heat_Pump_Product_Information_Sheet.pdf][Ecodan PUZ-WM50VHA Information Sheet]]
 - [[file:/heatpumps/EcodanPUZ-WM_50-60-85-112_V_H-A_A_Installation_Manual__BH79D849H02UK_.pdf][Ecodan PUZ-WM Installation Guide]]
@@ -28,6 +30,13 @@ In this case, our source is Air and our sink is Water.
 ** The Indoor Unit (Cylinder Unit)
 Judging by the label on the unit, this an EHPT17X-VM2DR1.UK model. The 17 in the title means that it has a 170 litre DHW (Domestic Hot Water) tank.
 - [[file:/heatpumps/Ecodan_EHPT20X-MHEDWR1_Service_Manual__OCH714E_.pdf][Ecodan EHPT17X-VM2DR1.UK Service Manual]]
+
+** The Controller
+This system uses the FTC6 controller. From our point of view, this consists of a collection of dip switches for initial setup and then an LCD display for modifying on the go.
+
+- [[file:/heatpumps/Ecodan_FTC6_PAC-IF07_1-3_B-E_Instruction_Book__BT79R180H01_.pdf][Ecodan FTC6 Instruction Book]]
+- [[https://www.youtube.com/watch?v=0Y4w18656d0][Handy video]] explaining the dip switches on the FTC6.
+  - Covers some of the points on two zone systems.
 
 ** Map of the Plumbing
 The following image is a map of the pipework above the cylinder unit, with labels.

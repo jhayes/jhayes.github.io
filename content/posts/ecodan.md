@@ -2,7 +2,7 @@
 title = "What I know about Ecodan ASHPs"
 author = ["Jack"]
 date = 2024-06-18T00:00:00+01:00
-lastmod = 2024-06-28T23:00:07+01:00
+lastmod = 2024-07-01T22:59:56+01:00
 tags = ["house", "heating"]
 draft = false
 +++
@@ -22,6 +22,7 @@ The gist of the sytem is shown in the following infographic.
 ### The Outdoor Unit {#the-outdoor-unit}
 
 I'm using an 5kW Mitsubishi Ecodan Air to Water Heat Pump. It uses [R32](https://en.wikipedia.org/wiki/Difluoromethane) as its refrigerant.
+It's a **Monobloc** unit, this means that the refrigerant is all contained outdoors and only water migrates into the house.
 
 There are two sides to every heat pump, the source and the sink. One can think of the source (air passing through the fan outdoors) as the input and the sink as the output (our radiators, etc).
 In this case, our source is Air and our sink is Water.
@@ -36,6 +37,15 @@ In this case, our source is Air and our sink is Water.
 Judging by the label on the unit, this an EHPT17X-VM2DR1.UK model. The 17 in the title means that it has a 170 litre DHW (Domestic Hot Water) tank.
 
 -   [Ecodan EHPT17X-VM2DR1.UK Service Manual](/heatpumps/Ecodan_EHPT20X-MHEDWR1_Service_Manual__OCH714E_.pdf)
+
+
+### The Controller {#the-controller}
+
+This system uses the FTC6 controller. From our point of view, this consists of a collection of dip switches for initial setup and then an LCD display for modifying on the go.
+
+-   [Ecodan FTC6 Instruction Book](/heatpumps/Ecodan_FTC6_PAC-IF07_1-3_B-E_Instruction_Book__BT79R180H01_.pdf)
+-   [Handy video](https://www.youtube.com/watch?v=0Y4w18656d0) explaining the dip switches on the FTC6.
+    -   Covers some of the points on two zone systems.
 
 
 ### Map of the Plumbing {#map-of-the-plumbing}
