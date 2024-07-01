@@ -5,20 +5,24 @@
         <description>Recent content in Posts on Jack Hayes</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 01 Jul 2024 23:30:07 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 23:34:40 +0100</lastBuildDate>
         <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Venting</title>
             <link>http://localhost:1313/posts/vents/</link>
-            <pubDate>Mon, 01 Jul 2024 23:30:07 +0100</pubDate>
+            <pubDate>Mon, 01 Jul 2024 23:34:40 +0100</pubDate>
             
             <guid>http://localhost:1313/posts/vents/</guid>
             <description>Summary Clickbait title, couldn&amp;rsquo;t resist the obvious one! This page is just a collection of details on the vents in my house for future Jack.
-Vents (Exhaust Units) Exhaust units are the devices that pull air out of a room, also called vents. There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.
-They all look similar but are actually different variants, all designed by Aereco.</description>
+System There are three vents in the house with differing features. These are then attached to an exhaust fan in the attic via ducts. The exhaust fan is then connected to the outside via an external vent.
+Vents (Exhaust Units) Exhaust units are the devices that pull air out of a room, also called vents.</description>
             <content type="html"><![CDATA[<h2 id="summary">Summary</h2>
 <p>Clickbait title, couldn&rsquo;t resist the obvious one! This page is just a collection of details on the vents in my house for future Jack.</p>
+<h2 id="system">System</h2>
+<p>There are three vents in the house with differing features.
+These are then attached to an exhaust fan in the attic via ducts.
+The exhaust fan is then connected to the outside via an external vent.</p>
 <h2 id="vents--exhaust-units">Vents (Exhaust Units)</h2>
 <p>Exhaust units are the devices that pull air out of a room, also called vents.
 There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.</p>
@@ -82,19 +86,24 @@ Looking over the manual, it&rsquo;s suggested that the propeller is cleaned once
 </ul>
 <h2 id="future-stuff">Future Stuff</h2>
 <ul>
-<li>There&rsquo;s a way to measure pressure using a manometer over these vents I believe, so that might be interesting to try in the future.</li>
-<li>I think the vents all make their way up to the attic, where there&rsquo;s a much larger exhaust, but I&rsquo;m not completely sure on all the details on that yet.
-<ul>
-<li>At the same time, we also have a vent over the hob but that&rsquo;s venting a different way I think?</li>
-</ul>
+<li>
+<p>There&rsquo;s a way to measure pressure using a manometer over these vents I believe, so that might be interesting to try in the future.</p>
 </li>
-<li>I think these vents might also have features for Co2 but I&rsquo;m not sure yet.</li>
-<li>The vent doors are adjustable I believe, so you can increase the amount of venting.
+<li>
+<p>I think these vents might also have features for Co2 but I&rsquo;m not sure yet.</p>
+</li>
+<li>
+<p>The vent doors are adjustable I believe, so you can increase the amount of venting.</p>
 <ul>
 <li>(This could be a trade-off of heat loss vs stagnant air I think, not explored yet).</li>
 </ul>
 </li>
-<li>I haven&rsquo;t yet traced all the ducts around the place (starting with the exhaust).</li>
+<li>
+<p>I haven&rsquo;t yet traced all the ducts around the place (starting with the exhaust).</p>
+</li>
+<li>
+<p>The vent over the hob goes directly to an external wall for venting, not using the exhaust fan in the attic (I&rsquo;m pretty sure).</p>
+</li>
 </ul>
 ]]></content>
         </item>

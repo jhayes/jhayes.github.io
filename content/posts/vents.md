@@ -1,7 +1,7 @@
 +++
 title = "Venting"
 author = ["Jack"]
-lastmod = 2024-07-01T23:30:07+01:00
+lastmod = 2024-07-01T23:34:40+01:00
 tags = ["house"]
 draft = false
 +++
@@ -9,6 +9,13 @@ draft = false
 ## Summary {#summary}
 
 Clickbait title, couldn't resist the obvious one! This page is just a collection of details on the vents in my house for future Jack.
+
+
+## System {#system}
+
+There are three vents in the house with differing features.
+These are then attached to an exhaust fan in the attic via ducts.
+The exhaust fan is then connected to the outside via an external vent.
 
 
 ## Vents (Exhaust Units) {#vents--exhaust-units}
@@ -48,9 +55,9 @@ Looking over the manual, it's suggested that the propeller is cleaned once a yea
 ## Future Stuff {#future-stuff}
 
 -   There's a way to measure pressure using a manometer over these vents I believe, so that might be interesting to try in the future.
--   I think the vents all make their way up to the attic, where there's a much larger exhaust, but I'm not completely sure on all the details on that yet.
-    -   At the same time, we also have a vent over the hob but that's venting a different way I think?
+
 -   I think these vents might also have features for Co2 but I'm not sure yet.
 -   The vent doors are adjustable I believe, so you can increase the amount of venting.
     -   (This could be a trade-off of heat loss vs stagnant air I think, not explored yet).
 -   I haven't yet traced all the ducts around the place (starting with the exhaust).
+-   The vent over the hob goes directly to an external wall for venting, not using the exhaust fan in the attic (I'm pretty sure).
