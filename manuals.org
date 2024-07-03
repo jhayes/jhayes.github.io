@@ -2,7 +2,7 @@
 #+hugo_section: posts
 #+hugo_auto_set_lastmod: t
 #+date: [2024-06-28 Fri]
-#+lastmod: [2024-06-28 Fri]
+#+lastmod: [2024-07-03 Wed]
 #+title: House Manuals
 #+hugo_tags: house manuals
 
@@ -14,3 +14,14 @@ It seems like it might be a good idea to group all the manuals for various appli
 - 
 
 * Living Room
+
+* Tools
+
+** Electrical
+- Fluke 1AC II VoltAlert
+  - [[file:/manuals/tools/1acii___iseng0100.pdf][Instruction Sheet]]
+  - [[file:/manuals/tools/2513868_0000_ENG_C_W.PDF][Datasheet]]
+  - [[https://www.fluke.com/en-ie/product/electrical-testing/basic-testers/fluke-1ac-ii#][Website]]
+** Measurement
+- Bosch Zamo Laser Measure, 4th generation.
+  -[[file:/manuals/tools/zamo-set-100059510-original-pdf-415594-en-gb.pdf][User Manual]]
