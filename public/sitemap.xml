@@ -2,17 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/house/</loc>
-    <lastmod>2024-07-01T23:34:40+01:00</lastmod>
+    <loc>http://localhost:1313/tags/emacs/</loc>
+    <lastmod>2025-03-05T23:17:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2025-03-05T23:17:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-01T23:34:40+01:00</lastmod>
+    <lastmod>2025-03-05T23:17:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-07-01T23:34:40+01:00</lastmod>
+    <lastmod>2025-03-05T23:17:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-07-01T23:34:40+01:00</lastmod>
+    <lastmod>2025-03-05T23:17:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/test/</loc>
+    <lastmod>2025-03-05T23:17:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/house/</loc>
+    <lastmod>2024-07-03T21:10:34+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/vents/</loc>
     <lastmod>2024-07-01T23:34:40+01:00</lastmod>
@@ -20,20 +29,14 @@
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-06-28T10:32:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/emacs/</loc>
-    <lastmod>2024-06-28T10:14:10+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/emacs/</loc>
     <lastmod>2024-06-28T10:14:10+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/manuals/</loc>
-    <lastmod>2024-06-28T14:29:09+01:00</lastmod>
+    <lastmod>2024-07-03T21:10:34+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/manuals/</loc>
-    <lastmod>2024-06-28T14:29:09+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2024-06-28T10:04:34+01:00</lastmod>
+    <lastmod>2024-07-03T21:10:34+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hugo-org/</loc>
     <lastmod>2024-06-28T10:04:34+01:00</lastmod>
