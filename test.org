@@ -1,0 +1,11 @@
+#+hugo_base_dir: ./
+#+hugo_section: posts
+#+hugo_auto_set_lastmod: t
+#+date: [2025-03-05 Wed]
+#+lastmod: [2025-03-05 Wed]
+#+title: Test Post
+#+hugo_tags: hugo emacs
+
+* Experiment
+- It's been a few months, I want to refresh myself on this so pushing an entry tonight.
+

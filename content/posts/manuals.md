@@ -2,7 +2,7 @@
 title = "House Manuals"
 author = ["Jack"]
 date = 2024-06-28T00:00:00+01:00
-lastmod = 2024-07-03T16:07:47+01:00
+lastmod = 2024-07-03T21:10:34+01:00
 tags = ["house", "manuals"]
 draft = false
 +++
@@ -37,4 +37,4 @@ It seems like it might be a good idea to group all the manuals for various appli
 ### Measurement {#measurement}
 
 -   Bosch Zamo Laser Measure, 4th generation.
-    -[User Manual](/manuals/tools/zamo-set-100059510-original-pdf-415594-en-gb.pdf)
+    -   [User Manual](/manuals/tools/zamo-set-100059510-original-pdf-415594-en-gb.pdf)

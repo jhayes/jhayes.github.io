@@ -10,8 +10,12 @@
 It seems like it might be a good idea to group all the manuals for various appliances together.
 
 * Kitchen
+- Washing Machine
+  - Maintenance & Cleaning
+    - See pg28 of the user manual.
+    - Cleaning the detergent drawer
+  - [[file:/manuals/kitchen/WMC126W.pdf][Beko WMC126W Manual]]
 ** Heat Pump
-- 
 
 * Living Room
 
@@ -24,4 +28,7 @@ It seems like it might be a good idea to group all the manuals for various appli
   - [[https://www.fluke.com/en-ie/product/electrical-testing/basic-testers/fluke-1ac-ii#][Website]]
 ** Measurement
 - Bosch Zamo Laser Measure, 4th generation.
-  -[[file:/manuals/tools/zamo-set-100059510-original-pdf-415594-en-gb.pdf][User Manual]]
+  - [[file:/manuals/tools/zamo-set-100059510-original-pdf-415594-en-gb.pdf][User Manual]]
+- Hychika 45m Green Laser Level, Self-Leveling
+  - [[file:/manuals/tools/LL2G30C.pdf][User Manual]]
+  - [[https://hychika.com/collections/measure-tools/products/green-laser-level-45m-self-leveling][Website]]
