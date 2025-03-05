@@ -146,7 +146,7 @@ Don’t worry about the mark tool highlighting the edges of lines in between, th
             
             <guid>http://localhost:1313/posts/manuals/</guid>
             <description>Summary It seems like it might be a good idea to group all the manuals for various appliances together.
-Kitchen Heat Pump Living Room Tools Electrical Fluke 1AC II VoltAlert Instruction Sheet Datasheet Website Measurement Bosch Zamo Laser Measure, 4th generation. -User Manual </description>
+Kitchen Heat Pump Living Room Tools Electrical Fluke 1AC II VoltAlert Instruction Sheet Datasheet Website Measurement Bosch Zamo Laser Measure, 4th generation. User Manual </description>
             <content type="html"><![CDATA[<h2 id="summary">Summary</h2>
 <p>It seems like it might be a good idea to group all the manuals for various appliances together.</p>
 <h2 id="kitchen">Kitchen</h2>
@@ -169,7 +169,10 @@ Kitchen Heat Pump Living Room Tools Electrical Fluke 1AC II VoltAlert Instructio
 <h3 id="measurement">Measurement</h3>
 <ul>
 <li>Bosch Zamo Laser Measure, 4th generation.
--<a href="/manuals/tools/zamo-set-100059510-original-pdf-415594-en-gb.pdf">User Manual</a></li>
+<ul>
+<li><a href="/manuals/tools/zamo-set-100059510-original-pdf-415594-en-gb.pdf">User Manual</a></li>
+</ul>
+</li>
 </ul>
 ]]></content>
         </item>
