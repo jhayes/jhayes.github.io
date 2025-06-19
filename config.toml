@@ -2,7 +2,7 @@ baseURL = 'http://www.jhayes.ie/'
 title = 'Jack Hayes'
 languageCode = 'en-us'
 theme = "hello-friend-ng"
-#theme = 'ananke'
+# theme = 'ananke'
 #theme = 'hello-friend-ng-hz'
 
 [params]

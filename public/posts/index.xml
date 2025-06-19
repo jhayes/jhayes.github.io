@@ -5,8 +5,18 @@
         <description>Recent content in Posts on Jack Hayes</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 01 Jul 2024 23:34:40 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
         <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Test Post</title>
+            <link>http://localhost:1313/posts/test/</link>
+            <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+            
+            <guid>http://localhost:1313/posts/test/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
         
         <item>
             <title>Venting</title>
@@ -14,9 +24,15 @@
             <pubDate>Mon, 01 Jul 2024 23:34:40 +0100</pubDate>
             
             <guid>http://localhost:1313/posts/vents/</guid>
-            <description>Summary Clickbait title, couldn&amp;rsquo;t resist the obvious one! This page is just a collection of details on the vents in my house for future Jack.
-System There are three vents in the house with differing features. These are then attached to an exhaust fan in the attic via ducts. The exhaust fan is then connected to the outside via an external vent.
-Vents (Exhaust Units) Exhaust units are the devices that pull air out of a room, also called vents.</description>
+            <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Clickbait title, couldn&amp;rsquo;t resist the obvious one! This page is just a collection of details on the vents in my house for future Jack.&lt;/p&gt;
+&lt;h2 id=&#34;system&#34;&gt;System&lt;/h2&gt;
+&lt;p&gt;There are three vents in the house with differing features.
+These are then attached to an exhaust fan in the attic via ducts.
+The exhaust fan is then connected to the outside via an external vent.&lt;/p&gt;
+&lt;h2 id=&#34;vents--exhaust-units&#34;&gt;Vents (Exhaust Units)&lt;/h2&gt;
+&lt;p&gt;Exhaust units are the devices that pull air out of a room, also called vents.
+There are three vents in the house. These are located in the kitchen, downstairs toilet and upstairs bathroom.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<h2 id="summary">Summary</h2>
 <p>Clickbait title, couldn&rsquo;t resist the obvious one! This page is just a collection of details on the vents in my house for future Jack.</p>
 <h2 id="system">System</h2>
@@ -36,42 +52,42 @@ There is a comparison table located <a href="https://www.aereco.ie/products/exha
 <li>The kitchen one&rsquo;s presence sensor lights up green, unlike the others (as a way of communicating diagnostics, whereas the sensor is used in the other variants and doesn&rsquo;t light up).</li>
 </ul>
 <table>
-<thead>
-<tr>
-<th>Location</th>
-<th>Type</th>
-<th>Part Number</th>
-<th>Humidity Sensitive</th>
-<th>Boost Airflow</th>
-<th>Boost Airflow based on presence detection</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Kitchen</td>
-<td>BXC^2 hps</td>
-<td>BXC1898</td>
-<td>Y</td>
-<td>N</td>
-<td>N</td>
-</tr>
-<tr>
-<td>Upstairs Bathroom</td>
-<td>BXC^2 hpd</td>
-<td>BXC1908</td>
-<td>Y</td>
-<td>Y</td>
-<td>Y</td>
-</tr>
-<tr>
-<td>Downstairs Toilet</td>
-<td>BXC^2 pd</td>
-<td>BXC1905</td>
-<td>N</td>
-<td>Y</td>
-<td>Y</td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th>Location</th>
+          <th>Type</th>
+          <th>Part Number</th>
+          <th>Humidity Sensitive</th>
+          <th>Boost Airflow</th>
+          <th>Boost Airflow based on presence detection</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Kitchen</td>
+          <td>BXC^2 hps</td>
+          <td>BXC1898</td>
+          <td>Y</td>
+          <td>N</td>
+          <td>N</td>
+      </tr>
+      <tr>
+          <td>Upstairs Bathroom</td>
+          <td>BXC^2 hpd</td>
+          <td>BXC1908</td>
+          <td>Y</td>
+          <td>Y</td>
+          <td>Y</td>
+      </tr>
+      <tr>
+          <td>Downstairs Toilet</td>
+          <td>BXC^2 pd</td>
+          <td>BXC1905</td>
+          <td>N</td>
+          <td>Y</td>
+          <td>Y</td>
+      </tr>
+  </tbody>
 </table>
 <ul>
 <li>Troubleshooting guide for the <a href="/vents/bxchps-beeping-troubleshooting-noise.pdf">BXC^2 hps model</a> (about the beeping).</li>
@@ -114,9 +130,11 @@ Looking over the manual, it&rsquo;s suggested that the propeller is cleaned once
             <pubDate>Fri, 28 Jun 2024 00:00:00 +0100</pubDate>
             
             <guid>http://localhost:1313/posts/emacs/</guid>
-            <description>Summary This is a list of some niggles and how I deal with them as a reference.
-Deleting the first ‘x’ characters from every line in a region with Emacs. You use your mark tool (‘C-Spc’) to highlight a box area and then use the command ‘C-x r k’ to remove this square/rectangle.
-Don’t worry about the mark tool highlighting the edges of lines in between, they won’t be clipped.</description>
+            <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;This is a list of some niggles and how I deal with them as a reference.&lt;/p&gt;
+&lt;h2 id=&#34;deleting-the-first-x-characters-from-every-line-in-a-region-with-emacs-dot&#34;&gt;Deleting the first ‘x’ characters from every line in a region with Emacs.&lt;/h2&gt;
+&lt;p&gt;You use your mark tool (‘C-Spc’) to highlight a box area and then use the command ‘C-x r k’ to remove this square/rectangle.&lt;/p&gt;
+&lt;p&gt;Don’t worry about the mark tool highlighting the edges of lines in between, they won’t be clipped.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<h2 id="summary">Summary</h2>
 <p>This is a list of some niggles and how I deal with them as a reference.</p>
 <h2 id="deleting-the-first-x-characters-from-every-line-in-a-region-with-emacs-dot">Deleting the first ‘x’ characters from every line in a region with Emacs.</h2>
@@ -145,8 +163,33 @@ Don’t worry about the mark tool highlighting the edges of lines in between, th
             <pubDate>Fri, 28 Jun 2024 00:00:00 +0100</pubDate>
             
             <guid>http://localhost:1313/posts/manuals/</guid>
-            <description>Summary It seems like it might be a good idea to group all the manuals for various appliances together.
-Kitchen Heat Pump Living Room Tools Electrical Fluke 1AC II VoltAlert Instruction Sheet Datasheet Website Measurement Bosch Zamo Laser Measure, 4th generation. User Manual </description>
+            <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;It seems like it might be a good idea to group all the manuals for various appliances together.&lt;/p&gt;
+&lt;h2 id=&#34;kitchen&#34;&gt;Kitchen&lt;/h2&gt;
+&lt;h3 id=&#34;heat-pump&#34;&gt;Heat Pump&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;living-room&#34;&gt;Living Room&lt;/h2&gt;
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
+&lt;h3 id=&#34;electrical&#34;&gt;Electrical&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fluke 1AC II VoltAlert
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/manuals/tools/1acii___iseng0100.pdf&#34;&gt;Instruction Sheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/manuals/tools/2513868_0000_ENG_C_W.PDF&#34;&gt;Datasheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fluke.com/en-ie/product/electrical-testing/basic-testers/fluke-1ac-ii&#34;&gt;Website&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;measurement&#34;&gt;Measurement&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bosch Zamo Laser Measure, 4th generation.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/manuals/tools/zamo-set-100059510-original-pdf-415594-en-gb.pdf&#34;&gt;User Manual&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
             <content type="html"><![CDATA[<h2 id="summary">Summary</h2>
 <p>It seems like it might be a good idea to group all the manuals for various appliances together.</p>
 <h2 id="kitchen">Kitchen</h2>
@@ -183,9 +226,14 @@ Kitchen Heat Pump Living Room Tools Electrical Fluke 1AC II VoltAlert Instructio
             <pubDate>Thu, 27 Jun 2024 00:00:00 +0100</pubDate>
             
             <guid>http://localhost:1313/posts/hugo-org/</guid>
-            <description>Summary This page is a summary of stuff I&amp;rsquo;ve learnt about using org-mode with Hugo to publish webpages. It is still very much in flux.
-Starting Points I use emacs a fair bit and org-mode a bit so I&amp;rsquo;m interested in using an org-mode flow. Because I use hugo to generate my website at the moment, use of a package called ox-hugo seemed the most convenient.
-Links Some resources I&amp;rsquo;ve found so far are:</description>
+            <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;This page is a summary of stuff I&amp;rsquo;ve learnt about using org-mode with Hugo to publish webpages.
+It is still very much in flux.&lt;/p&gt;
+&lt;h2 id=&#34;starting-points&#34;&gt;Starting Points&lt;/h2&gt;
+&lt;p&gt;I use emacs a fair bit and org-mode a bit so I&amp;rsquo;m interested in using an org-mode flow.
+Because I use hugo to generate my website at the moment, use of a package called &lt;a href=&#34;https://ox-hugo.scripter.co/&#34;&gt;ox-hugo&lt;/a&gt; seemed the most convenient.&lt;/p&gt;
+&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
+&lt;p&gt;Some resources I&amp;rsquo;ve found so far are:&lt;/p&gt;</description>
             <content type="html"><![CDATA[<h2 id="summary">Summary</h2>
 <p>This page is a summary of stuff I&rsquo;ve learnt about using org-mode with Hugo to publish webpages.
 It is still very much in flux.</p>
@@ -252,8 +300,21 @@ Because I use hugo to generate my website at the moment, use of a package called
             <pubDate>Tue, 18 Jun 2024 20:54:50 +0100</pubDate>
             
             <guid>http://localhost:1313/posts/shelly-handt/</guid>
-            <description>Introduction I bought two Shelly H&amp;amp;T Plus (version 3) devices a couple of months ago. The reason for choosing them at the time was because:
-They had a legible screen. The company seemed to have a reasonable reputation. There was an option to use the devices without their own apps (as in, local use only). WiFi as a protocol seemed cleaner at the time, less to go wrong. (In the meantime, I don&amp;rsquo;t know if this is so true anymore).</description>
+            <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;I bought two &lt;a href=&#34;https://www.shelly.com/en-ie/products/product-overview/shelly-plus-h-and-t&#34;&gt;Shelly H&amp;amp;T Plus&lt;/a&gt; (version 3) devices a couple of months ago.
+The reason for choosing them at the time was because:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;They had a legible screen.&lt;/li&gt;
+&lt;li&gt;The company seemed to have a reasonable reputation.&lt;/li&gt;
+&lt;li&gt;There was an option to use the devices without their own apps (as in, local use only).&lt;/li&gt;
+&lt;li&gt;WiFi as a protocol seemed cleaner at the time, less to go wrong.
+&lt;ul&gt;
+&lt;li&gt;(In the meantime, I don&amp;rsquo;t know if this is so true anymore).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;setup&#34;&gt;Setup&lt;/h2&gt;
+&lt;p&gt;Just some notes for myself next time I have to set these up..&lt;/p&gt;</description>
             <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>I bought two <a href="https://www.shelly.com/en-ie/products/product-overview/shelly-plus-h-and-t">Shelly H&amp;T Plus</a> (version 3) devices a couple of months ago.
 The reason for choosing them at the time was because:</p>
@@ -303,9 +364,16 @@ The reason for choosing them at the time was because:</p>
             <pubDate>Tue, 18 Jun 2024 00:00:00 +0100</pubDate>
             
             <guid>http://localhost:1313/posts/ecodan/</guid>
-            <description>Summary The following is a meandering post on what I&amp;rsquo;ve learnt about heat pumps (and more specifically the Ecodan range from Mistubishi) and some handy resources I&amp;rsquo;ve found.
-The System The gist of the sytem is shown in the following infographic.
-The Outdoor Unit I&amp;rsquo;m using an 5kW Mitsubishi Ecodan Air to Water Heat Pump. It uses R32 as its refrigerant. It&amp;rsquo;s a Monobloc unit, this means that the refrigerant is all contained outdoors and only water migrates into the house.</description>
+            <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;The following is a meandering post on what I&amp;rsquo;ve learnt about heat pumps (and more specifically the Ecodan range from Mistubishi) and some handy resources I&amp;rsquo;ve found.&lt;/p&gt;
+&lt;h2 id=&#34;the-system&#34;&gt;The System&lt;/h2&gt;
+&lt;p&gt;The gist of the sytem is shown in the following infographic.&lt;/p&gt;
+&lt;figure&gt;&lt;a href=&#34;http://localhost:1313/heatpumps/infographic.jpeg&#34;&gt;&lt;img src=&#34;http://localhost:1313/heatpumps/infographic.jpeg&#34;&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;the-outdoor-unit&#34;&gt;The Outdoor Unit&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;m using an 5kW Mitsubishi Ecodan Air to Water Heat Pump. It uses &lt;a href=&#34;https://en.wikipedia.org/wiki/Difluoromethane&#34;&gt;R32&lt;/a&gt; as its refrigerant.
+It&amp;rsquo;s a &lt;strong&gt;Monobloc&lt;/strong&gt; unit, this means that the refrigerant is all contained outdoors and only water migrates into the house.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<h2 id="summary">Summary</h2>
 <p>The following is a meandering post on what I&rsquo;ve learnt about heat pumps (and more specifically the Ecodan range from Mistubishi) and some handy resources I&rsquo;ve found.</p>
 <h2 id="the-system">The System</h2>
@@ -421,7 +489,7 @@ It seems like there&rsquo;s a different part number for Austrialian models (or s
 
 <h2 id="links">Links</h2>
 <ul>
-<li>The book <a href="https://www.amazon.co.uk/Heat-Pumps-Home-John-Cantor/dp/1785007793/ref=sr_1_3?crid=14CXTV81MAL5A&dib=eyJ2IjoiMSJ9.v79c5G2CcnKI1ma3zMB0zVfWk5pPPkDXTLfbsC-64gLOs0P7-k5QmsNHMl6MvnMme-zdApiBmqPOIBYYy1njTr-ooDyW2xDh2LObpWiuChLoh3gfUWpgvm9RRgTBqqgLw94QgnSSTsMZa9DYmIlriGowM4sAgE5DqFHesfkOyMCkcw0z1vzvn7H0Omk-lEDT7lJ9Zan8qhScqMGUCUnn3gLC_L5l8WvdtLHKgKVvkpA.BLOOjOyIAwjk3ynCdH0Zj3D8ZMmsLSbQhqrCL1Z7tYQ&dib_tag=se&keywords=heat+pumps+for+the+home&qid=1719574691&sprefix=heat+pumps+for+the+%2Caps%2C72&sr=8-3">Heat Pumps for the Home</a> was pretty good.
+<li>The book <a href="https://www.amazon.co.uk/Heat-Pumps-Home-John-Cantor/dp/1785007793/ref=sr_1_3?crid=14CXTV81MAL5A&amp;dib=eyJ2IjoiMSJ9.v79c5G2CcnKI1ma3zMB0zVfWk5pPPkDXTLfbsC-64gLOs0P7-k5QmsNHMl6MvnMme-zdApiBmqPOIBYYy1njTr-ooDyW2xDh2LObpWiuChLoh3gfUWpgvm9RRgTBqqgLw94QgnSSTsMZa9DYmIlriGowM4sAgE5DqFHesfkOyMCkcw0z1vzvn7H0Omk-lEDT7lJ9Zan8qhScqMGUCUnn3gLC_L5l8WvdtLHKgKVvkpA.BLOOjOyIAwjk3ynCdH0Zj3D8ZMmsLSbQhqrCL1Z7tYQ&amp;dib_tag=se&amp;keywords=heat&#43;pumps&#43;for&#43;the&#43;home&amp;qid=1719574691&amp;sprefix=heat&#43;pumps&#43;for&#43;the&#43;%2Caps%2C72&amp;sr=8-3">Heat Pumps for the Home</a> was pretty good.
 <ul>
 <li>It actually includes a lot of systems that use Ecodans.</li>
 </ul>
